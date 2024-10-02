@@ -4,3 +4,17 @@ author: "Dylan Morgan"
 date: "2024-10-02"
 output: github_document
 ---
+
+```{r setup, message = FALSE}
+library(tidyverse)
+```
+
+This RMD file will include answers to the questions for HW 2. 
+
+## Problem 1
+
+*Load NYC transit subway data*
+```{r}
+nyc_transit <- read_csv(file = "./data_hw2/NYC_Transit_Subway_Entrance_And_Exit_Data.csv")
+```
+
