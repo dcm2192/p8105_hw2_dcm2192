@@ -21,5 +21,8 @@ nyc_transit <-
   select(line, station_name, station_latitude, station_longitude, route1, route2, route3, route4, route5, route6, route7, route8, route9, route10, route11, entrance_type, entry, vending, ada)
 ```
 
-*Convert entry variable from character to logical.*
+*Convert* `entry` *variable from character to logical.*
+```{r}
+nyc_transit$entry <- ifelse(nyc_transit$entry == "YES", TRUE, FALSE)
+```
 
