@@ -96,7 +96,7 @@ nyc_transit |>
 Of the stations that serve the A train, 17 are ADA compliant.
 
 ## Problem 2
-*Read and clean Mr. Trash Wheel data*
+*Read and clean Mr. Trash Wheel data.*
 ```{r}
 mr_trash_wheel <- readxl::read_excel("./data_hw2/202409 Trash Wheel Collection Data.xlsx", 
                                      sheet = "Mr. Trash Wheel", 
@@ -105,4 +105,24 @@ mr_trash_wheel <- readxl::read_excel("./data_hw2/202409 Trash Wheel Collection D
   mutate(sports_balls = round(sports_balls, digits = 0)) |> 
   mutate(sports_balls = as.integer(sports_balls))
 ```
+
+*Read and clean Professor Trash Wheel data.*
+```{r}
+prof_trash_wheel <- readxl::read_excel("./data_hw2/202409 Trash Wheel Collection Data.xlsx",
+                                       sheet = "Professor Trash Wheel", 
+                                       range = "A2:M120") |> 
+  janitor::clean_names()
+```
+
+*Read and clean Gwynnda data.*
+```{r}
+gwynnda <- readxl::read_excel("./data_hw2/202409 Trash Wheel Collection Data.xlsx", 
+                              sheet = "Gwynnda Trash Wheel", 
+                              range = "A2:L265") |> 
+  janitor::clean_names()
+```
+
+
+
+
 
