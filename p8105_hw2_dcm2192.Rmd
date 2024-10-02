@@ -26,9 +26,40 @@ nyc_transit <-
 nyc_transit$entry <- ifelse(nyc_transit$entry == "YES", TRUE, FALSE)
 ```
 
-The `nyc_transit` dataset contains the variables `line`, `station_name`, `station_latitutde`, `station_longitude`, `route1` through `route11`, `entrance_type`, `entry`, `vending` and `ada`. Thus far, the data cleaning process has involved using the `clean_names()` function from the `janitor` package, which converted the variable names to snake_case and replaced special characters if they were present in the variable name. Other parts of the data cleaning process include using the `select()` function to keep only the variables mentioned previously, as well as using the `ifelse()` function to help convert the character data type of the `entry` variable to a logical data type, converting "YES" and "NO" to TRUE and FALSE, respectively. The `nyc_transit` dataset has `r nrow(nyc_transit)` rows and `r ncol(nyc_transit)` columns. The data is relatively tidy, but there does appear to be some redundancies in the dataset where there are multiple rows with the same data corresponding to the same precise geographic coordinates, so the dataset could be slightly consolidated. 
+The `nyc_transit` dataset contains the variables `line`, `station_name`, `station_latitutde`, `station_longitude`, `route1` through `route11`, `entrance_type`, `entry`, `vending` and `ada`. Thus far, the data cleaning process has involved using the `clean_names()` function from the `janitor` package, which converted the variable names to snake_case and replaced special characters if they were present in the variable name. Other parts of the data cleaning process include using the `select()` function to keep only the variables mentioned previously, as well as using the `ifelse()` function to help convert the character data type of the `entry` variable to a logical data type, converting "YES" and "NO" to TRUE and FALSE, respectively. The `nyc_transit` dataset has `r nrow(nyc_transit)` rows and `r ncol(nyc_transit)` columns. The data is relatively tidy, but there does appear to be some redundancies in the dataset where there are multiple rows with the same data corresponding to the same precise geographic coordinates, so the dataset could be consolidated slightly. 
 
+*Find number of distinct subway stations.*
+```{r}
+nyc_transit |> 
+  dplyr::distinct(line, station_name)
+```
 
+There are 465 distinct subway stations. 
 
+*Find number of stations that are ADA compliant.*
+```{r}
+nyc_transit |> 
+  filter(ada == TRUE) |> 
+  dplyr::distinct(line, station_name)
+```
 
+There are 84 distinct stations that are ADA compliant. 
+
+*Find proportion of station entrances / exits without vending that allow entrance.*\
+
+Stations without vending: 99
+```{r}
+nyc_transit |> 
+  filter(vending == "NO") |> 
+  dplyr::distinct(line, station_name)
+```
+
+Stations without vending that allow entrance: 43
+```{r}
+nyc_transit |> 
+  filter(vending == "NO", entry == TRUE) |> 
+  dplyr::distinct(line, station_name)
+```
+
+The proportion of station entrances/exits without vending that allow entrance is `r 43/99`. 
 
