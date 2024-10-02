@@ -26,3 +26,9 @@ nyc_transit <-
 nyc_transit$entry <- ifelse(nyc_transit$entry == "YES", TRUE, FALSE)
 ```
 
+The `nyc_transit` dataset contains the variables `line`, `station_name`, `station_latitutde`, `station_longitude`, `route1` through `route11`, `entrance_type`, `entry`, `vending` and `ada`. Thus far, the data cleaning process has involved using the `clean_names()` function from the `janitor` package, which converted the variable names to snake_case and replaced special characters if they were present in the variable name. Other parts of the data cleaning process include using the `select()` function to keep only the variables mentioned previously, as well as using the `ifelse()` function to help convert the character data type of the `entry` variable to a logical data type, converting "YES" and "NO" to TRUE and FALSE, respectively. The `nyc_transit` dataset has `r nrow(nyc_transit)` rows and `r ncol(nyc_transit)` columns. The data is relatively tidy, but there does appear to be some redundancies in the dataset where there are multiple rows with the same data corresponding to the same precise geographic coordinates, so the dataset could be slightly consolidated. 
+
+
+
+
+
