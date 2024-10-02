@@ -67,7 +67,14 @@ The proportion of station entrances/exits without vending that allow entrance is
 *Reformat data so that route number and route name are distinct variables. Find number of distinct stations that serve the A train. Of the stations that serve A train, find how many are ADA compliant.*
 ```{r}
 nyc_transit |> 
-  filter_at(vars(route1:route11), any_vars(. == "A")) |> 
+  mutate(route8 = as.character(route8), 
+         route9 = as.character(route9), 
+         route10 = as.character(route10), 
+         route11 = as.character(route11)) |> 
+  pivot_longer(route1:route11, 
+               names_to = "route_number", 
+               values_to = "route_name") |> 
+  filter(route_name == "A") |> 
   distinct(line, station_name)
 ```
 
@@ -75,9 +82,18 @@ There are 60 distinct stations that serve the A train.
 
 ```{r}
 nyc_transit |> 
-  filter_at(vars(route1:route11), any_vars(. == "A")) |> 
-  filter(ada == TRUE) |> 
+  mutate(route8 = as.character(route8), 
+         route9 = as.character(route9), 
+         route10 = as.character(route10), 
+         route11 = as.character(route11)) |> 
+  pivot_longer(route1:route11, 
+               names_to = "route_number", 
+               values_to = "route_name") |> 
+  filter(route_name == "A", ada == TRUE) |> 
   distinct(line, station_name)
 ```
 
-Of the stations that serve the A train, 17 are ADA compliant. 
+Of the stations that serve the A train, 17 are ADA compliant.
+
+
+
