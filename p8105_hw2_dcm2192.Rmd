@@ -141,10 +141,11 @@ The tidy dataset `trash_wheel_tidy` contains `r nrow(trash_wheel_tidy)` observat
 
 ## Problem 3
 
-*Load GBB data*
+*Load and clean GBB data*
 ```{r}
 bakers <- read_csv("./data_hw2/gbb_datasets/bakers.csv") |> 
-  janitor::clean_names()
+  janitor::clean_names() |> 
+  rename(baker_full_name = baker_name)
 
 bakes <- read_csv("./data_hw2/gbb_datasets/bakes.csv") |> 
   janitor::clean_names()
@@ -155,6 +156,19 @@ results <- read_csv("./data_hw2/gbb_datasets/results.csv") |>
          result = in_stayed_in_out_eliminated_star_baker_star_baker_winner_series_winner_runner_up_series_runner_up_wd_withdrew)
 
 results <- results[-c(1,2),]
+
+results$series <- as.numeric(results$series)
+results$episode <- as.numeric(results$episode)
+```
+
+*Join GBB data, starting with bakes and results, then bakers*
+```{r}
+results_bakes <- left_join(results, bakes)
+
+bakers <- 
+  separate(bakers, baker_full_name, into = c("baker", "baker_last_name"), sep = " ")
+
+gbb_tidy_total <- left_join(results_bakes, bakers)
 ```
 
 
