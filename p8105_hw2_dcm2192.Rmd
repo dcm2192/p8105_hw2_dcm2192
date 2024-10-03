@@ -142,6 +142,7 @@ The tidy dataset `trash_wheel_tidy` contains `r nrow(trash_wheel_tidy)` observat
 ## Problem 3
 
 *Load GBB data*
+
 ```{r}
 bakers <- 
   read_csv(file = "./data_hw2/gbb_datasets/bakers.csv") |> 
@@ -157,6 +158,8 @@ results <-
   janitor::clean_names()
   
 colnames(results) <- c("series", "episode", "baker_name", "technical", "result")
+
 results <- results[-c(1:2),]
 ```
+
 
