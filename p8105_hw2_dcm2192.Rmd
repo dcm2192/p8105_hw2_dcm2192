@@ -144,22 +144,37 @@ The tidy dataset `trash_wheel_tidy` contains `r nrow(trash_wheel_tidy)` observat
 *Load GBB data*
 
 ```{r}
-bakers <- 
-  read_csv(file = "./data_hw2/gbb_datasets/bakers.csv") |> 
+# bakers <- 
+#   read_csv(file = "./data_hw2/gbb_datasets/bakers.csv") |> 
+#   janitor::clean_names()
+# 
+# bakes <- 
+#   read_csv(file = "./data_hw2/gbb_datasets/bakes.csv") |> 
+#   janitor::clean_names()
+# colnames(bakes)[3] <- "baker_name"
+# 
+# results <- 
+#   read_csv(file = "./data_hw2/gbb_datasets/results.csv") |> 
+#   janitor::clean_names()
+#   
+# colnames(results) <- c("series", "episode", "baker_name", "technical", "result")
+# 
+# results <- results[-c(1:2),]
+```
+
+```{r}
+bakers <- read_csv("./data_hw2/gbb_datasets/bakers.csv") |> 
   janitor::clean_names()
 
-bakes <- 
-  read_csv(file = "./data_hw2/gbb_datasets/bakes.csv") |> 
+bakes <- read_csv("./data_hw2/gbb_datasets/bakes.csv") |> 
   janitor::clean_names()
-colnames(bakes)[3] <- "baker_name"
 
-results <- 
-  read_csv(file = "./data_hw2/gbb_datasets/results.csv") |> 
-  janitor::clean_names()
-  
-colnames(results) <- c("series", "episode", "baker_name", "technical", "result")
+results <- read_csv("./data_hw2/gbb_datasets/results.csv") |> 
+  janitor::clean_names() |> 
+  rename(series = x1, episode = x2, baker = x3, technical = x4, 
+         result = in_stayed_in_out_eliminated_star_baker_star_baker_winner_series_winner_runner_up_series_runner_up_wd_withdrew)
 
-results <- results[-c(1:2),]
+results <- results[-c(1,2),]
 ```
 
 
