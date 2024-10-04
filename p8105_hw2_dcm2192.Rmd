@@ -182,5 +182,12 @@ write.csv(gbb_tidy_total, "./data_hw2/gbb_datasets/gbb_tidy_total.csv")
 
 After loading `bakers.csv`, `bakes.csv`, and `results.csv`, I used `janitor::clean_names()` for each of them to convert all variable names into snake_case and remove any special characters in the variable names. For `results`, I renamed the variable names to match the names provided in row 2 (i.e., `series`, `episode`, etc.), then removed the first two rows since they did not contain usable data. I also converted the `series` and `episode` variables for this dataset from character to numeric to match the data types for those columns in `bakes`. I used `left_join()` to combine `results` and `bakes` into `results_bakes` as an intermediary variable. For `bakers`, I renamed the `baker_name` variable to `baker_full_name`, and separated this column by first and last name, or `baker` and `baker_last_name`, respectively. I then used `left_join()` to combine `results_bakes` and `bakers` into the final combined tidy dataset, `gbb_tidy_total`. I used `select()` to reorder the variable names in `gbb_tidy_total` and `rename()` to change the names of `baker` to `baker_first_name` and change `hometown` to `baker_hometown`. Lastly, I exported the dataset as `gbb_tidy_total.csv`. This final dataset contains `r nrow(gbb_tidy_total)` observations of `r ncol(gbb_tidy_total)` variables, which are `baker_first_name`, `baker_last_name`, `baker_age`, `baker_occupation`, `baker_hometown`, `series`, `episode`, `technical`, `signature_bake`, `show_stopper`, and `result`. 
 
+*Winners and star bakers of season 5-10.*
+```{r}
+gbb_tidy_total_win_star_5_to_10 <- 
+  filter(gbb_tidy_total, result == "WINNER" | result == "STAR BAKER", series >= 5)
+```
+
+Based on this table, the overall winners of each season from seasons 5 through 10 were Nancy, Nadiya, Candice, Sophie, Rahul, and David. From these, the predictable overall winners included Candice and Nadiya, who were both either winner or star baker on four different episodes, which is the most out of everyone from seasons 5 through 10. The surprising overall winner was David, whose only win or star baker happened during the last episode when he won the episode and the season. 
 
 
