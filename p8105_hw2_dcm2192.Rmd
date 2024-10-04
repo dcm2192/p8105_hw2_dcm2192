@@ -165,10 +165,22 @@ results$episode <- as.numeric(results$episode)
 ```{r}
 results_bakes <- left_join(results, bakes)
 
-bakers <- 
+bakers <-
   separate(bakers, baker_full_name, into = c("baker", "baker_last_name"), sep = " ")
 
-gbb_tidy_total <- left_join(results_bakes, bakers)
+gbb_tidy_total <- left_join(results_bakes, bakers) |>
+  select("baker", "baker_last_name", "baker_age", "baker_occupation", "hometown",
+         "series", "episode", "technical", "signature_bake", "show_stopper", "result") |>
+  rename(baker_first_name = baker,
+         baker_hometown = hometown)
 ```
+
+*Export GBB tidy data.*
+```{r}
+write.csv(gbb_tidy_total, "./data_hw2/gbb_datasets/gbb_tidy_total.csv")
+```
+
+After loading `bakers.csv`, `bakes.csv`, and `results.csv`, I used `janitor::clean_names()` for each of them to convert all variable names into snake_case and remove any special characters in the variable names. For `results`, I renamed the variable names to match the names provided in row 2 (i.e., `series`, `episode`, etc.), then removed the first two rows since they did not contain usable data. I also converted the `series` and `episode` variables for this dataset from character to numeric to match the data types for those columns in `bakes`. I used `left_join()` to combine `results` and `bakes` into `results_bakes` as an intermediary variable. For `bakers`, I renamed the `baker_name` variable to `baker_full_name`, and separated this column by first and last name, or `baker` and `baker_last_name`, respectively. I then used `left_join()` to combine `results_bakes` and `bakers` into the final combined tidy dataset, `gbb_tidy_total`. I used `select()` to reorder the variable names in `gbb_tidy_total` and `rename()` to change the names of `baker` to `baker_first_name` and change `hometown` to `baker_hometown`. Lastly, I exported the dataset as `gbb_tidy_total.csv`. This final dataset contains `r nrow(gbb_tidy_total)` observations of `r ncol(gbb_tidy_total)` variables, which are `baker_first_name`, `baker_last_name`, `baker_age`, `baker_occupation`, `baker_hometown`, `series`, `episode`, `technical`, `signature_bake`, `show_stopper`, and `result`. 
+
 
 

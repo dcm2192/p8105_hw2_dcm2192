@@ -1,0 +1,1167 @@
+"","baker_first_name","baker_last_name","baker_age","baker_occupation","baker_hometown","series","episode","technical","signature_bake","show_stopper","result"
+"1","Annetha","Mills",30,"Midwife","Essex",1,1,"2","Light Jamaican Black Cakewith Strawberries and Cream","Red, White & Blue Chocolate Cake with Cigarellos, Fresh Fruit, and Cream","IN"
+"2","David","Chambers",31,"Entrepreneur","Milton Keynes",1,1,"3","Chocolate Orange Cake","Black Forest Floor Gateauxwith Moulded Chocolate Leaves, Fallen Fruitand Chocolate Mushrooms Moulded from eggs","IN"
+"3","Edd","Kimber",24,"Debt collector for Yorkshire Bank","Bradford",1,1,"1","Caramel Cinnamon and Banana Cake","N/A","IN"
+"4","Jasminder","Randhawa",45,"Assistant Credit Control Manager","Birmingham",1,1,NA,"Fresh Mango and Passion Fruit Hummingbird Cake","N/A","IN"
+"5","Jonathan","Shepherd",25,"Research Analyst","St Albans",1,1,"9","Carrot Cake with Lime and Cream Cheese Icing","Three Tiered White and Dark Chocolate with Almond and Cherry","IN"
+"6","Louise","Brimelow",44,"Police Officer","Manchester",1,1,NA,"Carrot and Orange Cake","Never Fail Chocolate Sponge Cake,with Fresh Fruit, White & Chocolate Cigarello Border","IN"
+"7","Miranda","Browne",37,"Food buyer for Marks & Spencer","Midhurst, West Sussex",1,1,"8","Triple Layered Brownie Meringue Cake
+with Raspberry Cream","Three Tiered Chocolate Fudge Cake  with Handmade Chocolate Button Decorations","IN"
+"8","Ruth","Clemens",31,"Retail manager/Housewife","Poynton, Cheshire",1,1,NA,"Three Tiered Lemon Drizzle Cakewith Fresh Cream and freshly made Lemon Curd","Classic Chocolate Sponge wrapped in a Chocolate Collartopped with Handmade White and Dark Chocolate Truffles","IN"
+"9","Lea","Harris",51,"Retired","Midlothian, Scotland",1,1,"10","Cranberry and Pistachio Cakewith Orange Flower Water Icing","Raspberries and Cream filled Chocolatewith Chocolate-dipped Fresh Fruit","OUT"
+"10","Mark","Whithers",48,"Bus Driver","South Wales",1,1,NA,"Sticky Marmalade Tea Loaf","Heart-shaped Chocolate and Beetroot Cake with Store-Bought silver chocolate hearts and chocolate red and white roses.","OUT"
+"11","David","Chambers",31,"Entrepreneur","Milton Keynes",1,2,"8","Cheddar Cheese and Fresh Rosemary Biscuits","Choux Pastry Swans  Chocolate Profiteroles","IN"
+"12","Edd","Kimber",24,"Debt collector for Yorkshire Bank","Bradford",1,2,"6","Oatmeal Raisin Cookie","Pink Macarons","IN"
+"13","Jasminder","Randhawa",45,"Assistant Credit Control Manager","Birmingham",1,2,"2","Millionaires' Shortbread","Meringues with Chocolate and Space DustCoffee flavoured Eclairs","IN"
+"14","Jonathan","Shepherd",25,"Research Analyst","St Albans",1,2,"1","Honey and Candied Ginger Cookies","Meringues with Whiskey Cream","IN"
+"15","Miranda","Browne",37,"Food buyer for Marks & Spencer","Midhurst, West Sussex",1,2,"3","Fresh Vanilla Biscuits with Royal Icing","Pistachio Macarons","IN"
+"16","Ruth","Clemens",31,"Retail manager/Housewife","Poynton, Cheshire",1,2,"5","Peanut Shortbread withSalted Peanut Caramel","Almond Macaron with Violet ButtercreamRaspberries and Cream Eclairs","IN"
+"17","Annetha","Mills",30,"Midwife","Essex",1,2,"7","Rose Petal Shortbread","Pink Swirl Macarons / Eclairs","OUT"
+"18","Louise","Brimelow",44,"Police Officer","Manchester",1,2,"4","Stained Glass Window Shortbread","Strawberry, Mint, and Cream Meringues  Chocolate Eclairs / Orange, Yellow and Pink Macarons","OUT"
+"19","Lea","Harris",51,"Retired","Midlothian, Scotland",1,2,NA,NA,NA,NA
+"20","Mark","Whithers",48,"Bus Driver","South Wales",1,2,NA,NA,NA,NA
+"21","David","Chambers",31,"Entrepreneur","Milton Keynes",1,3,"4","Chilli Bread","Walnut and Seed Roll
+Red Berry and Almond Bun","IN"
+"22","Edd","Kimber",24,"Debt collector for Yorkshire Bank","Bradford",1,3,"1","Olive Bread","Tomato and Mozzarella","IN"
+"23","Jasminder","Randhawa",45,"Assistant Credit Control Manager","Birmingham",1,3,"5","Focaccia","Mango and Sultana Buns
+Pan au Chocolat with Mars Bars
+Tutti Frutti Wheel with Jelly Tots","IN"
+"24","Miranda","Browne",37,"Food buyer for Marks & Spencer","Midhurst, West Sussex",1,3,"3","Walnut and Apricot Bread","Lemon Iced Buns
+Chocolate and Orange Buns","IN"
+"25","Ruth","Clemens",31,"Retail manager/Housewife","Poynton, Cheshire",1,3,"2","Maple and Pecan Bread","Chocolate and Orange Panettone
+Cranberry Bagels","IN"
+"26","Jonathan","Shepherd",25,"Research Analyst","St Albans",1,3,"6","Anchovy, Sweet Paprika and Oregano Bread","Sticky Lemon Honey Bun
+Olive and Anchovy Roll
+Sundried Tomatoes and Fresh Herbs Roll
+Stilton, Walnut and Apple Roll
+Cinnamon and Cardamom Chelsea Bun","OUT"
+"27","Annetha","Mills",30,"Midwife","Essex",1,3,NA,NA,NA,NA
+"28","Lea","Harris",51,"Retired","Midlothian, Scotland",1,3,NA,NA,NA,NA
+"29","Louise","Brimelow",44,"Police Officer","Manchester",1,3,NA,NA,NA,NA
+"30","Mark","Whithers",48,"Bus Driver","South Wales",1,3,NA,NA,NA,NA
+"31","Edd","Kimber",24,"Debt collector for Yorkshire Bank","Bradford",1,4,"3","Apple and Plum Pudding","Apple and Cinnamon Crumble, Nutella Banana Brioche Bread Pudding, Rhubarb and Strawberry Suet Layer","IN"
+"32","Jasminder","Randhawa",45,"Assistant Credit Control Manager","Birmingham",1,4,"2","Sticky Toffee Pudding with Tropical Fruit & Toffee Sauce","Bread & Butter Pudding, Treacle Suet Pudding with Fresh Fruit, Apple and Pineapple Crumble","IN"
+"33","Miranda","Browne",37,"Food buyer for Marks & Spencer","Midhurst, West Sussex",1,4,"1","Sticky Toffee Pudding","Queen of Puddings, Chocolate Pear Roly Poly, Strawberry and Rhubarb Crumble","IN"
+"34","Ruth","Clemens",31,"Retail manager/Housewife","Poynton, Cheshire",1,4,"4","Peach and Blueberry Boy Bait","Apple & Ginger Crumble, Rhubarb Suet Crust, Cherry Queen of Puddings","IN"
+"35","David","Chambers",31,"Entrepreneur","Milton Keynes",1,4,"5","Pear and Walnut Pudding","Apple and Blackberry Crumble, Rhubarb and Orange Betty, Suet Pear","OUT"
+"36","Annetha","Mills",30,"Midwife","Essex",1,4,NA,NA,NA,NA
+"37","Jonathan","Shepherd",25,"Research Analyst","St Albans",1,4,NA,NA,NA,NA
+"38","Lea","Harris",51,"Retired","Midlothian, Scotland",1,4,NA,NA,NA,NA
+"39","Louise","Brimelow",44,"Police Officer","Manchester",1,4,NA,NA,NA,NA
+"40","Mark","Whithers",48,"Bus Driver","South Wales",1,4,NA,NA,NA,NA
+"41","Edd","Kimber",24,"Debt collector for Yorkshire Bank","Bradford",1,5,"2","Chicken, Ham, Leek and Tarragon Pie","Almond Sweet Pastry with Ginger and Chocolate  Raspberry Tart / Yorkshire Curd Tart  Chickpea and Salami, Red and Yellow Pepper, Asparagus Gruyere Quiche Canapés","IN"
+"42","Miranda","Browne",37,"Food buyer for Marks & Spencer","Midhurst, West Sussex",1,5,"1","Summery Salmon, Cod and Prawn Fish Pie","Chocolate Pastry filled with Orange Cheesecake  Chocolate Pastry filled with Milk Chocolate Ganche  Strawberry Tart with Red Currant Glaze  Cheesy Crab, Broad Bean and Tomato, Pancetta Risotto Canapés","IN"
+"43","Ruth","Clemens",31,"Retail manager/Housewife","Poynton, Cheshire",1,5,"3","Minced Beef Pie","Raspberry and Dark Chocolate Tart  Creme Patisserie and Cherry Tart  Citrus Curd Tart with Creme Brulee top  Tomato, Asparagus Twirl Canapés","IN"
+"44","Jasminder","Randhawa",45,"Assistant Credit Control Manager","Birmingham",1,5,"4","Chicken and Mushroom Pie","Jaggery, Carrot, and Spiced Condensed Milk Tart  Fruit and Custard Tart  Thai Chili Red Onion, Duck in Plum Sauce, Salmon and Prawn Canapés","OUT"
+"45","Annetha","Mills",30,"Midwife","Essex",1,5,NA,NA,NA,NA
+"46","David","Chambers",31,"Entrepreneur","Milton Keynes",1,5,NA,NA,NA,NA
+"47","Jonathan","Shepherd",25,"Research Analyst","St Albans",1,5,NA,NA,NA,NA
+"48","Lea","Harris",51,"Retired","Midlothian, Scotland",1,5,NA,NA,NA,NA
+"49","Louise","Brimelow",44,"Police Officer","Manchester",1,5,NA,NA,NA,NA
+"50","Mark","Whithers",48,"Bus Driver","South Wales",1,5,NA,NA,NA,NA
+"51","Miranda","Browne",37,"Food buyer for Marks & Spencer","Midhurst, West Sussex",1,6,NA,"Lemon Cupcake","Eliminated after signature","Runner-up"
+"52","Ruth","Clemens",31,"Retail manager/Housewife","Poynton, Cheshire",1,6,NA,"Mint, Ginger and Blackberry Cake",NA,"Runner-up"
+"53","Edd","Kimber",24,"Debt collector for Yorkshire Bank","Bradford",1,6,NA,"Cinnamon and Banana Cake",NA,"WINNER"
+"54","Annetha","Mills",30,"Midwife","Essex",1,6,NA,NA,NA,NA
+"55","David","Chambers",31,"Entrepreneur","Milton Keynes",1,6,NA,NA,NA,NA
+"56","Jasminder","Randhawa",45,"Assistant Credit Control Manager","Birmingham",1,6,NA,NA,NA,NA
+"57","Jonathan","Shepherd",25,"Research Analyst","St Albans",1,6,NA,NA,NA,NA
+"58","Lea","Harris",51,"Retired","Midlothian, Scotland",1,6,NA,NA,NA,NA
+"59","Louise","Brimelow",44,"Police Officer","Manchester",1,6,NA,NA,NA,NA
+"60","Mark","Whithers",48,"Bus Driver","South Wales",1,6,NA,NA,NA,NA
+"61","Ben","Frazer",31,"Graphic Designer","Northampton",2,1,"2","Rhubarb and Custard CupcakesAfter Dinner Cupcakes","Vanilla Sponge with White Chocolate and Raspberry Buttercream","IN"
+"62","Ian","Vallance",40,"Fundraiser for English Heritage","Dunstable, Bedfordshire",2,1,"10","Apple and Cinnamon Cupcakes","UNKNOWN","IN"
+"63","Janet","Basu",63,"Teacher of Modern Languages","Formby, Liverpool",2,1,"8","Raspberry and Cream Cupcakes","Chocolate Marble Cakewith Dark and White Chocolate Truffles","IN"
+"64","Jason","White",19,"Civil Engineering Student","Croydon",2,1,"6","Lemon Meringue CupcakesApple and Cinnamon Cupcakes","UNKNOWN","IN"
+"65","Joanne",NA,NA,NA,NA,2,1,"11",NA,NA,"IN"
+"66","Mary-Anne","Boermans",45,"Housewife","Kidderminster, Worcestershire",2,1,"4","Banoffee Cupcakes","Chocolate and Raspberry Opera cake","IN"
+"67","Robert","Billington",25,"Photographer","London",2,1,"3","Blackberry and Vanilla Cupcakeswith Liquorice Frosting","Genoise Layered Mousse Cakewith Chocolate Ganache","IN"
+"68","Simon","Blackwell",31,"Rugby Coach","Norfolk",2,1,"9","Guinness and Chocolate Cupcakes","Two-Tiered Chocolate Courgette Cake","IN"
+"69","Urvashi","Roe",40,"Head of Marketing","Enfield, London",2,1,"7","Cherry Blossom CupcakesJapanese Lime Cupcakes","UNKNOWN","IN"
+"70","Yasmin","Limbert",43,"Childminder","West Kirby, The Wirral",2,1,"5","Cardamom and Pomegranate Cupcakes","UNKNOWN","IN"
+"71","Keith","Batsford",31,"House husband","Arlesey, Bedfordshire",2,1,"12","Earl Grey Cupcakes","Chocolate and Sour Cream Cake","OUT"
+"72","Holly","Bell",31,"Advertising executive","Leicester",2,1,"1","Cherry Bakewell Inspired CupcakesGinger Cupcakes with Fig Truffle","UNKNOWN","STAR BAKER"
+"73","Ben","Frazer",31,"Graphic Designer","Northampton",2,2,"1","Chorizo, Pepper and Gruyere Quiche","Lemon Meringue Tarts","IN"
+"74","Holly","Bell",31,"Advertising executive","Leicester",2,2,"4","Pesto Quiche","Milk Chocolate and Pistachio TartsTrifle Tarts","IN"
+"75","Ian","Vallance",40,"Fundraiser for English Heritage","Dunstable, Bedfordshire",2,2,"2","Stilton, Spinach and New Potato Quichewith Paprika and Walnut Pastry","UNKNOWN","IN"
+"76","Janet","Basu",63,"Teacher of Modern Languages","Formby, Liverpool",2,2,"8","Quiche Printanière","Red Fruit TartsChocolate and Cherry Tarts","IN"
+"77","Joanne",NA,NA,NA,NA,2,2,"10",NA,NA,"IN"
+"78","Mary-Anne","Boermans",45,"Housewife","Kidderminster, Worcestershire",2,2,"9","Roasted Cauliflower, Cheese andCaramelised Onion Quiche","Butterscotch Brulée Tarts in Pecan PastryApple Rose Tarts","IN"
+"79","Robert","Billington",25,"Photographer","London",2,2,"5","Smoked Bacon and Kale Quiche","Chocolate, Fennel and Ginger TartAlmond, Creme Patissiere and Poached Pear Tart","IN"
+"80","Urvashi","Roe",40,"Head of Marketing","Enfield, London",2,2,"7","Crab, Coriander and Coconut Quiche","Strawberry and Basil TartsElderflower and Honeycomb Tarts","IN"
+"81","Yasmin","Limbert",43,"Childminder","West Kirby, The Wirral",2,2,"6","Smoked Haddock and Watercress Quiche","Chocolate and Orange with Cinnamon-Orange Pastry TartsBlueberry and Hazelnut with Hazelnut Pastry Tarts","IN"
+"82","Simon","Blackwell",31,"Rugby Coach","Norfolk",2,2,"11","Smoked Haddock and Watercress Quiche","Passion Fruit and Ricotta TartsSalted Chocolate, Stem Ginger and Mascarpone Cream Tarts","OUT"
+"83","Jason","White",19,"Civil Engineering Student","Croydon",2,2,"3","Salmon and Pak Choi Quiche","Mint Chocolate Tarts Blueberry Bakewell Tarts","STAR BAKER"
+"84","Keith","Batsford",31,"House husband","Arlesey, Bedfordshire",2,2,NA,NA,NA,NA
+"85","Ben","Frazer",31,"Graphic Designer","Northampton",2,3,"3","Walnut, Raisin and Rosemary Loaf","UNKNOWN","IN"
+"86","Holly","Bell",31,"Advertising executive","Leicester",2,3,"6","Picnic Loaf","Stilton and Walnut Rolls","IN"
+"87","Janet","Basu",63,"Teacher of Modern Languages","Formby, Liverpool",2,3,"8","Zupfe Loaf with Gruyère Cheese","Apple and Walnut Granary Rolls Red Onion Cottage Rolls","IN"
+"88","Jason","White",19,"Civil Engineering Student","Croydon",2,3,"7","Cheese and Onion Tear and Share Loaf","UNKNOWN","IN"
+"89","Joanne",NA,NA,NA,NA,2,3,"1",NA,NA,"IN"
+"90","Mary-Anne","Boermans",45,"Housewife","Kidderminster, Worcestershire",2,3,"5","Ploughman's Loaf","Herb and Walnut BreadsChocolate and Chilli Buns","IN"
+"91","Robert","Billington",25,"Photographer","London",2,3,"4","Rye and Coriander Seed Loaf","Blueberry Brioche RollsLemon and Poppy Seed Rolls","IN"
+"92","Ian","Vallance",40,"Fundraiser for English Heritage","Dunstable, Bedfordshire",2,3,"10","Courgette, Caerphilly Cheese and Thyme Loaf","Walnut and Raisin RollsCracked Wheat Logs","OUT"
+"93","Urvashi","Roe",40,"Head of Marketing","Enfield, London",2,3,"9","Salt and Peppercorn Loaf","Chilli and Halloumi RollsLemon and Coriander Mini Loaves","OUT"
+"94","Yasmin","Limbert",43,"Childminder","West Kirby, The Wirral",2,3,"2","Egyptian Dukkah Loaf with Mixed Spices","Pesto Bread
+Sweet Coconut Rolls","STAR BAKER"
+"95","Keith","Batsford",31,"House husband","Arlesey, Bedfordshire",2,3,NA,NA,NA,NA
+"96","Simon","Blackwell",31,"Rugby Coach","Norfolk",2,3,NA,NA,NA,NA
+"97","Janet","Basu",63,"Teacher of Modern Languages","Formby, Liverpool",2,4,"4","Christmas Marzipan Biscuits","Raspberry Macarons
+Blackcurrant Macarons
+Almond Macarons","IN"
+"98","Joanne",NA,NA,NA,NA,2,4,"8",NA,NA,"IN"
+"99","Mary-Anne","Boermans",45,"Housewife","Kidderminster, Worcestershire",2,4,"2","Melting Moments","Blackcurrant and Mint MacaronsGooseberry and Elderflower MacaronsHazelnut Macarons","IN"
+"100","Robert","Billington",25,"Photographer","London",2,4,"7","Chocolate and Ginger Oat Biscuits","Strawberry and Lime MacaronsLemon MacaronsChocolate and Cardamom Macarons","IN"
+"101","Yasmin","Limbert",43,"Childminder","West Kirby, The Wirral",2,4,"6","Chocolate Chip and Pistachio Biscotti","Chocolate and Lime MacaronsCoffee and Walnut MacaronsPineapple and Coconut Macarons","IN"
+"102","Ben","Frazer",31,"Graphic Designer","Northampton",2,4,"5","Stem Ginger Nuts","Chocolate and Almond MacaronsPine Nut MacaronsPistachio Macarons","OUT"
+"103","Holly","Bell",31,"Advertising executive","Leicester",2,4,"3","Strawberry and Custard Melts","'Chocolate bars of my youth'
+(Caramel Macarons, Mint Chocolate Macarons and Chocolate Orange Macarons)","STAR BAKER"
+"104","Jason","White",19,"Civil Engineering Student","Croydon",2,4,"1","Lebkuchen","Mocktail Macarons
+(Mojito, Cranberry Cooler, and Pina Colada)","STAR BAKER"
+"105","Ian","Vallance",40,"Fundraiser for English Heritage","Dunstable, Bedfordshire",2,4,NA,NA,NA,NA
+"106","Keith","Batsford",31,"House husband","Arlesey, Bedfordshire",2,4,NA,NA,NA,NA
+"107","Simon","Blackwell",31,"Rugby Coach","Norfolk",2,4,NA,NA,NA,NA
+"108","Urvashi","Roe",40,"Head of Marketing","Enfield, London",2,4,NA,NA,NA,NA
+"109","Holly","Bell",31,"Advertising executive","Leicester",2,5,"4","Stilton, Potato and Caramelised Onion Pie","Lime Meringue Pie","IN"
+"110","Joanne",NA,NA,NA,NA,2,5,"6",NA,NA,"IN"
+"111","Mary-Anne","Boermans",45,"Housewife","Kidderminster, Worcestershire",2,5,"2","Chicken and Bacon Pie","Midnight Meringue","IN"
+"112","Yasmin","Limbert",43,"Childminder","West Kirby, The Wirral",2,5,"5","Family Fish Pie","Peach and Raspberry Meringue Pie","IN"
+"113","Jason","White",19,"Civil Engineering Student","Croydon",2,5,"7","Brown Down Chicken Pie","Plum Meringue Pie","OUT"
+"114","Robert","Billington",25,"Photographer","London",2,5,"3","Chicken and Mushroom Pie","Rhubarb and Custard Meringue Pie","OUT"
+"115","Janet","Basu",63,"Teacher of Modern Languages","Formby, Liverpool",2,5,"1","Chicken and Chestnut Pie","Rhubarb Meringue Pie","STAR BAKER"
+"116","Ben","Frazer",31,"Graphic Designer","Northampton",2,5,NA,NA,NA,NA
+"117","Ian","Vallance",40,"Fundraiser for English Heritage","Dunstable, Bedfordshire",2,5,NA,NA,NA,NA
+"118","Keith","Batsford",31,"House husband","Arlesey, Bedfordshire",2,5,NA,NA,NA,NA
+"119","Simon","Blackwell",31,"Rugby Coach","Norfolk",2,5,NA,NA,NA,NA
+"120","Urvashi","Roe",40,"Head of Marketing","Enfield, London",2,5,NA,NA,NA,NA
+"121","Holly","Bell",31,"Advertising executive","Leicester",2,6,"3","Father Christmas' Baked Cheesecake","Hansel and Gretel's Croquembouche","IN"
+"122","Janet","Basu",63,"Teacher of Modern Languages","Formby, Liverpool",2,6,"5","Rhubarb and Ginger Baked Cheesecake","Orange and Nougatine Croquembouche","IN"
+"123","Mary-Anne","Boermans",45,"Housewife","Kidderminster, Worcestershire",2,6,"4","Tutti Fruitti Curd Baked Cheesecake","Orange and Praline Croquembouche with Cardamom Caramel","IN"
+"124","Yasmin","Limbert",43,"Childminder","West Kirby, The Wirral",2,6,"2","Baked Amaretto Cheesecake","Rose Croquembouche","OUT"
+"125","Joanne",NA,NA,NA,NA,2,6,"1",NA,NA,"STAR BAKER"
+"126","Ben","Frazer",31,"Graphic Designer","Northampton",2,6,NA,NA,NA,NA
+"127","Ian","Vallance",40,"Fundraiser for English Heritage","Dunstable, Bedfordshire",2,6,NA,NA,NA,NA
+"128","Jason","White",19,"Civil Engineering Student","Croydon",2,6,NA,NA,NA,NA
+"129","Keith","Batsford",31,"House husband","Arlesey, Bedfordshire",2,6,NA,NA,NA,NA
+"130","Robert","Billington",25,"Photographer","London",2,6,NA,NA,NA,NA
+"131","Simon","Blackwell",31,"Rugby Coach","Norfolk",2,6,NA,NA,NA,NA
+"132","Urvashi","Roe",40,"Head of Marketing","Enfield, London",2,6,NA,NA,NA,NA
+"133","Holly","Bell",31,"Advertising executive","Leicester",2,7,"1","White Chocolate, Hazelnut and Raspberry Genoise Mousse Cake","Apricot, Macadamia and White Chocolate PinwheelsAlmond CroissantsApple, Raisin and Cinnamon Plaits","IN"
+"134","Joanne",NA,NA,NA,NA,2,7,"3",NA,NA,"IN"
+"135","Mary-Anne","Boermans",45,"Housewife","Kidderminster, Worcestershire",2,7,"2","Chocolate and Orange Mousse Cake","Raspberry Rose DanishesPraline SpiralsAlsatian Plaited Danishes","IN"
+"136","Janet","Basu",63,"Teacher of Modern Languages","Formby, Liverpool",2,7,"4","Chocolate Amaretto Mousse Cake","Pain Aux RaisinPlain CroissantPain Au Chocolat","OUT"
+"137","Ben","Frazer",31,"Graphic Designer","Northampton",2,7,NA,NA,NA,NA
+"138","Ian","Vallance",40,"Fundraiser for English Heritage","Dunstable, Bedfordshire",2,7,NA,NA,NA,NA
+"139","Jason","White",19,"Civil Engineering Student","Croydon",2,7,NA,NA,NA,NA
+"140","Keith","Batsford",31,"House husband","Arlesey, Bedfordshire",2,7,NA,NA,NA,NA
+"141","Robert","Billington",25,"Photographer","London",2,7,NA,NA,NA,NA
+"142","Simon","Blackwell",31,"Rugby Coach","Norfolk",2,7,NA,NA,NA,NA
+"143","Urvashi","Roe",40,"Head of Marketing","Enfield, London",2,7,NA,NA,NA,NA
+"144","Yasmin","Limbert",43,"Childminder","West Kirby, The Wirral",2,7,NA,NA,NA,NA
+"145","Holly","Bell",31,"Advertising executive","Leicester",2,8,"2","Banoffee Inspired Mille Feuille","Strawberry and Cream Meringue NestGooseberry and Elderflower 'Bakewell' TartsNeapolitan Ice-Cream Sandwich","Runner-up"
+"146","Mary-Anne","Boermans",45,"Housewife","Kidderminster, Worcestershire",2,8,"3","Lemon and Ginger Mille Feuille","Fruit Tarts with Elderflower CustardStrawberry and Rhubarb CheesecakesBlack Fruit Meringue with Everlasting Syllabub","Runner-up"
+"147","Joanne",NA,NA,NA,NA,2,8,"1",NA,NA,"WINNER"
+"148","Ben","Frazer",31,"Graphic Designer","Northampton",2,8,NA,NA,NA,NA
+"149","Ian","Vallance",40,"Fundraiser for English Heritage","Dunstable, Bedfordshire",2,8,NA,NA,NA,NA
+"150","Janet","Basu",63,"Teacher of Modern Languages","Formby, Liverpool",2,8,NA,NA,NA,NA
+"151","Jason","White",19,"Civil Engineering Student","Croydon",2,8,NA,NA,NA,NA
+"152","Keith","Batsford",31,"House husband","Arlesey, Bedfordshire",2,8,NA,NA,NA,NA
+"153","Robert","Billington",25,"Photographer","London",2,8,NA,NA,NA,NA
+"154","Simon","Blackwell",31,"Rugby Coach","Norfolk",2,8,NA,NA,NA,NA
+"155","Urvashi","Roe",40,"Head of Marketing","Enfield, London",2,8,NA,NA,NA,NA
+"156","Yasmin","Limbert",43,"Childminder","West Kirby, The Wirral",2,8,NA,NA,NA,NA
+"157","Brendan","Lynch",63,"Recruitment consultant","Sutton Coldfield",3,1,"10","Plum, Sour Cherry & Walnut","UNKNOWN","IN"
+"158","Cathryn","Dresser",27,"Shop assistant","Pease Pottage, West Sussex",3,1,"5","Apple, Hazelnut and Calvados","Hidden Cupcake Cake","IN"
+"159","Danny","Bryden",45,"Intensive care consultant","Sheffield",3,1,"7","Plum, Ginger & Orange","UNKNOWN","IN"
+"160","James","Morton",21,"Medical student","Hillswick, Shetland Islands",3,1,"2","Parsnip, Pear, and Pecan","""Simmer Dim"" Sunset Cake","IN"
+"161","John","Whaite",22,"Law student","Wigan",3,1,"11","Toffee Apple, Orange & Cranberry","Hidden Pink Hearts Cake","IN"
+"162","Manisha","Parmar",27,"Nursery nurse","Leicester",3,1,"6","Vanilla, Peach and Raspberry","White Chocolate Cake with a Red Velvet and White Chocolate Mousse Heart","IN"
+"163","Peter","Maloney",43,"Sales manager","Windsor, Berkshire",3,1,"3","Pear, Muscat & Chocolate","Jubilee Cake","IN"
+"164","Ryan","Chong",38,"Photographer","Bristol",3,1,"8","Kumquat and Orange Polenta","Hidden Flowerbed Mousse Cake","IN"
+"165","Sarah-Jane","Willis",28,"Vicar's wife","Bewbush, West Sussex",3,1,"1","Pear, Chocolate and Hazelnut","Hidden Crown Cake","IN"
+"166","Stuart","Marston-Smith",26,"PE teacher","Lichfield, Staffordshire",3,1,"9","Tomato and Ginger","Lemon and Pistachio Union Flag Cake","IN"
+"167","Natasha","Stringer",36,"Midwife","Tamworth, Staffordshire",3,1,"12","Pineapple & Passion Fruit","Mother's Day Layered Rose Cake","OUT"
+"168","Victoria","Chester",50,"CEO of the charity Plantlife","Somerset",3,1,"4","Pear and Pecan","Blackbird Pie Cake","STAR BAKER"
+"169","Brendan","Lynch",63,"Recruitment consultant","Sutton Coldfield",3,2,"4","Middle Eastern Taboon BreadIndian Rotis","Chocolate and Vanilla Bagels
+Cumin and Gruyere Bagels","IN"
+"170","Cathryn","Dresser",27,"Shop assistant","Pease Pottage, West Sussex",3,2,"8","Spiced Mango NaanLime, Coriander and Chilli Tortillas","Cranberry and Orange Bagels
+Chipotle, Chili, and Smoked Cheddar Bagels","IN"
+"171","Danny","Bryden",45,"Intensive care consultant","Sheffield",3,2,"3","Lime Coriander and Coconut TortillasZaatar Naan with Dukkah","UNKNOWN","IN"
+"172","James","Morton",21,"Medical student","Hillswick, Shetland Islands",3,2,"2","Tomato, Garlic, and Parmesan FlatbreadsTattie Scones","Orange, Mint and Chocolate Bagels
+'Millers' Sourdough Bagels","IN"
+"173","Manisha","Parmar",27,"Nursery nurse","Leicester",3,2,"6","Indian FlatbreadsItalian Flatbreads","UNKNOWN","IN"
+"174","Ryan","Chong",38,"Photographer","Bristol",3,2,"5","Shanghai Spring Onion FlatbreadsGarlic and Coriander Naan","Cinnamon and Date Bagels
+Tarragon and Rosemary Bagels","IN"
+"175","Sarah-Jane","Willis",28,"Vicar's wife","Bewbush, West Sussex",3,2,"10","Toasted Coconut and Lime RotisOatcakes","UNKNOWN","IN"
+"176","Stuart","Marston-Smith",26,"PE teacher","Lichfield, Staffordshire",3,2,"9","Bombay BreadChorizo and Spring Onion Naan","Cinnamon and Cranberry Bagels
+Tomato and Thyme Bagels","IN"
+"177","Victoria","Chester",50,"CEO of the charity Plantlife","Somerset",3,2,"7","Coriander and Lemon NaanGarlic and Parsnip Chapatis","Saffron and Golden Raisin Bagels
+Porcini Bagels","IN"
+"178","Peter","Maloney",43,"Sales manager","Windsor, Berkshire",3,2,"11","Fennel and Nigella Seed NaanBannock Bread","Rosemary and Sea Salt Bagels
+Apple and Cinnamon Bagels","OUT"
+"179","John","Whaite",22,"Law student","Wigan",3,2,"1","Coriander and Chilli RotisGarlic, Pomegranate and Potato Pitas","Fig, Walnut and Gruyere Bagels
+Blueberry and White Chocolate Bagels","STAR BAKER"
+"180","Natasha","Stringer",36,"Midwife","Tamworth, Staffordshire",3,2,NA,NA,NA,NA
+"181","Brendan","Lynch",63,"Recruitment consultant","Sutton Coldfield",3,3,"9","Apple and Ginger Tarte Tatin","Blackberry, Nectarine and Dragon Fruit Tart","IN"
+"182","Cathryn","Dresser",27,"Shop assistant","Pease Pottage, West Sussex",3,3,"3","Plum, Cherry and Five Spice Tarte Tatin","Raspberry, Pistachio and Lemon Tart","IN"
+"183","Danny","Bryden",45,"Intensive care consultant","Sheffield",3,3,"2","Savoury Pear and Roquefort Tarte Tatin","Pineapple, Coconut and Frangipane Tart","IN"
+"184","John","Whaite",22,"Law student","Wigan",3,3,"6","Apple and Vanilla Tarte Tatin with Walnut Praline","Berries, Grapes, Pomegranate, and Dragon Fruit Tart","IN"
+"185","Manisha","Parmar",27,"Nursery nurse","Leicester",3,3,"10","Cinnamon, Apple and Pear Tarte Tatin","Rum and Tropical Fruit Tart","IN"
+"186","Ryan","Chong",38,"Photographer","Bristol",3,3,"5","Spiced Pear Tarte Tatin","UNKNOWN","IN"
+"187","Sarah-Jane","Willis",28,"Vicar's wife","Bewbush, West Sussex",3,3,"8","Caramelised Banana Tarte Tatin","French Apple Tart with Blackberry and Cassis Jam","IN"
+"188","Stuart","Marston-Smith",26,"PE teacher","Lichfield, Staffordshire",3,3,"7","Pear and Almond Tarte Tatin","Raspberry Triple Chocolate Layered Tart","IN"
+"189","Victoria","Chester",50,"CEO of the charity Plantlife","Somerset",3,3,"4","Fig, Walnut and Pink Peppercorn Tarte Tatin","Tropical Fruit Tart with Black Pepper Crust","OUT"
+"190","James","Morton",21,"Medical student","Hillswick, Shetland Islands",3,3,"1","Apple and Lavender Tarte Tatin","Rose, Lychee and Raspberry Fruit Tart","STAR BAKER"
+"191","Natasha","Stringer",36,"Midwife","Tamworth, Staffordshire",3,3,NA,NA,NA,NA
+"192","Peter","Maloney",43,"Sales manager","Windsor, Berkshire",3,3,NA,NA,NA,NA
+"193","Cathryn","Dresser",27,"Shop assistant","Pease Pottage, West Sussex",3,4,"3","White Chocolate, Macadamia and Coffee Torte","Gooseberry, Almond and Honey Meringue","IN"
+"194","Danny","Bryden",45,"Intensive care consultant","Sheffield",3,4,"2","Blackberry, White Chocolate, Lemon and Elderflower Torte","'Monte Bianco' Chestnut, Chocolate and Coffee Dacquoise","IN"
+"195","James","Morton",21,"Medical student","Hillswick, Shetland Islands",3,4,"5","Hazelnut, Chocolate and Passionfruit Torte","Fig, Chestnut, Cherry and Chocolate Layered Meringue","IN"
+"196","John","Whaite",22,"Law student","Wigan",3,4,"6","'Torte Noir' Black Forest Torte with Boozy Cream","Elderflower and Bramble Berry Pavlova","IN"
+"197","Manisha","Parmar",27,"Nursery nurse","Leicester",3,4,"9","Almond, Chocolate and Cherry Torte","Tiramisu Layered Meringue Dessert","IN"
+"198","Ryan","Chong",38,"Photographer","Bristol",3,4,"7","Green Tea Opera Torte","Strawberry, Rose and Pistachio Meringue","IN"
+"199","Sarah-Jane","Willis",28,"Vicar's wife","Bewbush, West Sussex",3,4,"4","Chocolate and Almond Truffle Torte","Hazelnut Tiramisu Layered Meringue","IN"
+"200","Stuart","Marston-Smith",26,"PE teacher","Lichfield, Staffordshire",3,4,"8","Black Forest Torte","Choca Blocka Mocha Meringue","OUT"
+"201","Brendan","Lynch",63,"Recruitment consultant","Sutton Coldfield",3,4,"1","Clementine and Chestnut Torte","Pear, Chocolate and Hazelnut Dacquoise","STAR BAKER"
+"202","Natasha","Stringer",36,"Midwife","Tamworth, Staffordshire",3,4,NA,NA,NA,NA
+"203","Peter","Maloney",43,"Sales manager","Windsor, Berkshire",3,4,NA,NA,NA,NA
+"204","Victoria","Chester",50,"CEO of the charity Plantlife","Somerset",3,4,NA,NA,NA,NA
+"205","Brendan","Lynch",63,"Recruitment consultant","Sutton Coldfield",3,5,"3","Salmon Coulibiac in a Scandinavian Pastry","All American Chiffon Pie","IN"
+"206","Cathryn","Dresser",27,"Shop assistant","Pease Pottage, West Sussex",3,5,"1","Full English Wellington","Chocolate and Peanut Butter Pumpkin Pie","IN"
+"207","Danny","Bryden",45,"Intensive care consultant","Sheffield",3,5,"7","Chickpea, Spinach & Mushroom Wellington","Trick or Treat Pumpkin Pie","IN"
+"208","James","Morton",21,"Medical student","Hillswick, Shetland Islands",3,5,"6","Four Pig Wellington","Sweet Potato Pie","IN"
+"209","John","Whaite",22,"Law student","Wigan",3,5,"2","Venison and Haggis Wellington","Star-Spangled Pecan Pie","IN"
+"210","Sarah-Jane","Willis",28,"Vicar's wife","Bewbush, West Sussex",3,5,"4","Beef Wellington with Parma Ham and Gorgonzola Cheese","Chocolate and Banana Cream Pie","IN"
+"211","Manisha","Parmar",27,"Nursery nurse","Leicester",3,5,"5","Lamb Wellington with Rosemary and Mint","Banana Scotch Pie","OUT"
+"212","Ryan","Chong",38,"Photographer","Bristol",3,5,"8","Curry Spiced Seabass Wellington","Key Lime Pie","STAR BAKER"
+"213","Natasha","Stringer",36,"Midwife","Tamworth, Staffordshire",3,5,NA,NA,NA,NA
+"214","Peter","Maloney",43,"Sales manager","Windsor, Berkshire",3,5,NA,NA,NA,NA
+"215","Stuart","Marston-Smith",26,"PE teacher","Lichfield, Staffordshire",3,5,NA,NA,NA,NA
+"216","Victoria","Chester",50,"CEO of the charity Plantlife","Somerset",3,5,NA,NA,NA,NA
+"217","Cathryn","Dresser",27,"Shop assistant","Pease Pottage, West Sussex",3,6,"3","Chocolate Walnut Whip Puddings
+Elderflower Sponges","Roasted Vegetable Couscous and Sheep Cheese Strudel","IN"
+"218","Danny","Bryden",45,"Intensive care consultant","Sheffield",3,6,"2","Banoffee Puddings with Walnut Butterscotch SauceJubilee Chocolate Fondants","Leek, Potato, Pistachio and Gruyère Strudel","IN"
+"219","James","Morton",21,"Medical student","Hillswick, Shetland Islands",3,6,"7","Banana and Clove PuddingsClootie Dumplings","Strawberry, Rhubarb and Ginger Strudel","IN"
+"220","John","Whaite",22,"Law student","Wigan",3,6,"5","Spicy Toffee PuddingsRaspberry and White Chocolate Puddings","Did not complete due to injury","IN"
+"221","Ryan","Chong",38,"Photographer","Bristol",3,6,"6","Chocolate FondantsSticky Ginger and Date Puddings","Apple, Sour Cherry, Raisin and Mixed Nuts Strudel","IN"
+"222","Sarah-Jane","Willis",28,"Vicar's wife","Bewbush, West Sussex",3,6,"4","Sticky Toffee PuddingsGranny's Saucy Lemon Puddings","Sweet Strudel with Sour Cherries","IN"
+"223","Brendan","Lynch",63,"Recruitment consultant","Sutton Coldfield",3,6,"1","Rhubarb, Strawberry and Ginger Puddings
+Sticky Toffee Puddings","Spinach, Cheese and Walnut Strudel","STAR BAKER"
+"224","Manisha","Parmar",27,"Nursery nurse","Leicester",3,6,NA,NA,NA,NA
+"225","Natasha","Stringer",36,"Midwife","Tamworth, Staffordshire",3,6,NA,NA,NA,NA
+"226","Peter","Maloney",43,"Sales manager","Windsor, Berkshire",3,6,NA,NA,NA,NA
+"227","Stuart","Marston-Smith",26,"PE teacher","Lichfield, Staffordshire",3,6,NA,NA,NA,NA
+"228","Victoria","Chester",50,"CEO of the charity Plantlife","Somerset",3,6,NA,NA,NA,NA
+"229","Brendan","Lynch",63,"Recruitment consultant","Sutton Coldfield",3,7,"4","Chelsea Bunskis","Black Forest Christmas Stollen","IN"
+"230","Cathryn","Dresser",27,"Shop assistant","Pease Pottage, West Sussex",3,7,"5","Lady Arundel's Manchet Buns","Bonfire Night Tear 'n' Share Brioche","IN"
+"231","James","Morton",21,"Medical student","Hillswick, Shetland Islands",3,7,"1","Easter Chelsea Buns","Whisky Kugelhopf-Brioche Baba","IN"
+"232","John","Whaite",22,"Law student","Wigan",3,7,"3","Cherry and Almond Saffron Buns","Marzipan Stollen","IN"
+"233","Ryan","Chong",38,"Photographer","Bristol",3,7,"6","Lardy Cakes","Char Siu Bao","OUT"
+"234","Sarah-Jane","Willis",28,"Vicar's wife","Bewbush, West Sussex",3,7,"7","Orange, Nutmeg and Saffron Buns","Sour Cherry and Dark Chocolate Christmas Plait","OUT"
+"235","Danny","Bryden",45,"Intensive care consultant","Sheffield",3,7,"2","Bakewell Chelsea Buns","European Christmas Wreath","STAR BAKER"
+"236","Manisha","Parmar",27,"Nursery nurse","Leicester",3,7,NA,NA,NA,NA
+"237","Natasha","Stringer",36,"Midwife","Tamworth, Staffordshire",3,7,NA,NA,NA,NA
+"238","Peter","Maloney",43,"Sales manager","Windsor, Berkshire",3,7,NA,NA,NA,NA
+"239","Stuart","Marston-Smith",26,"PE teacher","Lichfield, Staffordshire",3,7,NA,NA,NA,NA
+"240","Victoria","Chester",50,"CEO of the charity Plantlife","Somerset",3,7,NA,NA,NA,NA
+"241","Brendan","Lynch",63,"Recruitment consultant","Sutton Coldfield",3,8,"2","Multi-Seed Savoury Crackers","Fantasy Gingerbread Bird House","IN"
+"242","Danny","Bryden",45,"Intensive care consultant","Sheffield",3,8,"4","Spiced Almond Drinks Crackers","Gingerbread Big Ben","IN"
+"243","John","Whaite",22,"Law student","Wigan",3,8,"3","Asian Spice Crackers","Gingerbread Roman Coliseum","IN"
+"244","Cathryn","Dresser",27,"Shop assistant","Pease Pottage, West Sussex",3,8,"5","Cheese and Pickle Crackers","Gingerbread Buckingham Palace","OUT"
+"245","James","Morton",21,"Medical student","Hillswick, Shetland Islands",3,8,"1","Smoky Cayenne, Cumin and Chilli Crackers","Gingerbread Barn","STAR BAKER"
+"246","Manisha","Parmar",27,"Nursery nurse","Leicester",3,8,NA,NA,NA,NA
+"247","Natasha","Stringer",36,"Midwife","Tamworth, Staffordshire",3,8,NA,NA,NA,NA
+"248","Peter","Maloney",43,"Sales manager","Windsor, Berkshire",3,8,NA,NA,NA,NA
+"249","Ryan","Chong",38,"Photographer","Bristol",3,8,NA,NA,NA,NA
+"250","Sarah-Jane","Willis",28,"Vicar's wife","Bewbush, West Sussex",3,8,NA,NA,NA,NA
+"251","Stuart","Marston-Smith",26,"PE teacher","Lichfield, Staffordshire",3,8,NA,NA,NA,NA
+"252","Victoria","Chester",50,"CEO of the charity Plantlife","Somerset",3,8,NA,NA,NA,NA
+"253","Brendan","Lynch",63,"Recruitment consultant","Sutton Coldfield",3,9,"3","Coffee Meringue and Hazelnut CreamsApricot and Pistachio FriandsLime Curd Choux Pastry Cygnets","Gateau St. Honoré","IN"
+"254","John","Whaite",22,"Law student","Wigan",3,9,"2","Lemon MadeleinesWhite Chocolate and Raspberry TartletsDark Chocolate and Cherry Macaroons","Gateau St. Honoré a la Passion","IN"
+"255","Danny","Bryden",45,"Intensive care consultant","Sheffield",3,9,"4","Blackberry and Peppermint MacaroonsMiniature Raspberry and Basil FinanciersOrange and White Chocolate Langues de Chat","Rosewater and Lychee St. Honoré","OUT"
+"256","James","Morton",21,"Medical student","Hillswick, Shetland Islands",3,9,"1","Lemon and Rhubarb TartletsChocolate Indulgence Petits FoursChilli, Lime and Raspberry Macaroons","Coffee, Caramel and Hazelnut Paris-Brest","STAR BAKER"
+"257","Cathryn","Dresser",27,"Shop assistant","Pease Pottage, West Sussex",3,9,NA,NA,NA,NA
+"258","Manisha","Parmar",27,"Nursery nurse","Leicester",3,9,NA,NA,NA,NA
+"259","Natasha","Stringer",36,"Midwife","Tamworth, Staffordshire",3,9,NA,NA,NA,NA
+"260","Peter","Maloney",43,"Sales manager","Windsor, Berkshire",3,9,NA,NA,NA,NA
+"261","Ryan","Chong",38,"Photographer","Bristol",3,9,NA,NA,NA,NA
+"262","Sarah-Jane","Willis",28,"Vicar's wife","Bewbush, West Sussex",3,9,NA,NA,NA,NA
+"263","Stuart","Marston-Smith",26,"PE teacher","Lichfield, Staffordshire",3,9,NA,NA,NA,NA
+"264","Victoria","Chester",50,"CEO of the charity Plantlife","Somerset",3,9,NA,NA,NA,NA
+"265","Brendan","Lynch",63,"Recruitment consultant","Sutton Coldfield",3,10,"2","Potato and Pepper Pithivier","Family Reunion Chiffon Cake","Runner-up"
+"266","James","Morton",21,"Medical student","Hillswick, Shetland Islands",3,10,"1","Spanish Pithivier with Chorizo and Red Pepper","United Chiffon Cakes","Runner-up"
+"267","John","Whaite",22,"Law student","Wigan",3,10,"2","Italian Sausage and Roasted Vegetable Pithivier","Heaven and Hell Chiffon Cake","WINNER"
+"268","Cathryn","Dresser",27,"Shop assistant","Pease Pottage, West Sussex",3,10,NA,NA,NA,NA
+"269","Danny","Bryden",45,"Intensive care consultant","Sheffield",3,10,NA,NA,NA,NA
+"270","Manisha","Parmar",27,"Nursery nurse","Leicester",3,10,NA,NA,NA,NA
+"271","Natasha","Stringer",36,"Midwife","Tamworth, Staffordshire",3,10,NA,NA,NA,NA
+"272","Peter","Maloney",43,"Sales manager","Windsor, Berkshire",3,10,NA,NA,NA,NA
+"273","Ryan","Chong",38,"Photographer","Bristol",3,10,NA,NA,NA,NA
+"274","Sarah-Jane","Willis",28,"Vicar's wife","Bewbush, West Sussex",3,10,NA,NA,NA,NA
+"275","Stuart","Marston-Smith",26,"PE teacher","Lichfield, Staffordshire",3,10,NA,NA,NA,NA
+"276","Victoria","Chester",50,"CEO of the charity Plantlife","Somerset",3,10,NA,NA,NA,NA
+"277","Ali","Imdad",25,"Charity worker","Saltley, Birmingham",4,1,"11","Rose and Pistachio Cake","Chocolate, Raspberry and Passion Fruit Engagement Cake","IN"
+"278","Beca","Lyne-Pirkis",31,"Military Wives' Choir Singer","Aldershot, Hampshire",4,1,"8","Grapefruit Sandwich Cake","Chocolate Cherry Indulgence","IN"
+"279","Christine","Wallace",66,"Director of an engraving company","Didcot, Oxfordshire",4,1,"3","Strawberry, Vanilla and Rosewater Summer Basket","Chocolate and Orange 'Fripperous' Hat Cake","IN"
+"280","Deborah","Manger",51,"Dentist","Peterborough",4,1,"9","Pineapple Cake","'Coffee Time'","IN"
+"281","Frances","Quinn",31,"Children's Clothes Designer","Market Harborough, Leicestershire",4,1,"7","Giant Jam Sandwich","Secret Squirrel Cake","IN"
+"282","Glenn","Cosby",37,"English Teacher","Teignmouth, Devon",4,1,"4","Strawberries and Cream Cake","Almond and Espresso Chocolate Cake","IN"
+"283","Howard","Middleton",51,"Council Worker","Sheffield",4,1,"6","Passion Fruit and Coconut Cake","Black Forest Revisited","IN"
+"284","Kimberley","Wilson",30,"Psychologist","London",4,1,"10","Blood Orange Cake","Chocolate, Raspberry & Basil Layer Cake","IN"
+"285","Lucy","Bellamy",38,"Horticulturist","Grimsby, Lincolnshire",4,1,"2","Timperley Early Cake","Thyme 'Wildwood' Cake","IN"
+"286","Mark","Onley",37,"Carpenter and Kitchen Fitter","Milton Keynes",4,1,"5","Lemon and Poppy Seed Cake","Chocolate Monster","IN"
+"287","Ruby","Tandoh",20,"History of Art and Philosophy Student","Southend, Essex",4,1,"12","Rhubarb and Custard Sandwich Cake","Chocolate and Ginger Night Sky Cake","IN"
+"288","Toby","Waterworth",30,"Web Programmer","Reading, Berkshire",4,1,"13","Spiced and Iced Carrot Cake","Two Tiered Chocolate Cake","OUT"
+"289","Robert","Smart",54,"Space Satellite Designer","Melbourn, Cambridgeshire",4,1,"1","Pecan and Apple Cake","Raspberry Chocolate Cake","STAR BAKER"
+"290","Ali","Imdad",25,"Charity worker","Saltley, Birmingham",4,2,"9","Italian Grissini","Sweet and Savoury Yin Yang Bread","IN"
+"291","Beca","Lyne-Pirkis",31,"Military Wives' Choir Singer","Aldershot, Hampshire",4,2,"11","Fennel and Chilli Breadsticks","Five Strand Christmas Wreath","IN"
+"292","Christine","Wallace",66,"Director of an engraving company","Didcot, Oxfordshire",4,2,"4","Mediterranean Breadsticks with Oregano","Double Plaited Loaf","IN"
+"293","Deborah","Manger",51,"Dentist","Peterborough",4,2,"8","Fennel & Chilli Breadsticks","Walnut Fleur Loaf","IN"
+"294","Frances","Quinn",31,"Children's Clothes Designer","Market Harborough, Leicestershire",4,2,"2","Giant Matchsticks","Sailor's Knot","IN"
+"295","Glenn","Cosby",37,"English Teacher","Teignmouth, Devon",4,2,"7","Rosemary and Parmesan Grissini","Harvest Crown","IN"
+"296","Howard","Middleton",51,"Council Worker","Sheffield",4,2,"10","Moroccan Breadsticks","Picasso Sun Bread","IN"
+"297","Kimberley","Wilson",30,"Psychologist","London",4,2,"1","Nigella Seed and Parmesan Breadsticks","Peace Bread","IN"
+"298","Mark","Onley",37,"Carpenter and Kitchen Fitter","Milton Keynes",4,2,"6","Rosemary & Raisin Breadsticks","Sage & Garlic Plait","IN"
+"299","Robert","Smart",54,"Space Satellite Designer","Melbourn, Cambridgeshire",4,2,"5","Twisty Rye Bread Sticks","Tribute Loaf","IN"
+"300","Lucy","Bellamy",38,"Horticulturist","Grimsby, Lincolnshire",4,2,"12","Grissini with Salt","Roast Tomato Bread","OUT"
+"301","Ruby","Tandoh",20,"History of Art and Philosophy Student","Southend, Essex",4,2,"3","Mexican Breadsticks","White Chocolate and Orange Peacock Bread","STAR BAKER"
+"302","Toby","Waterworth",30,"Web Programmer","Reading, Berkshire",4,2,NA,NA,NA,NA
+"303","Ali","Imdad",25,"Charity worker","Saltley, Birmingham",4,3,"5","Coconut, Raspberry and Lemon Meringue Trifle","Vanilla Latte Mini CakesLime & Mint Shortbread Pops","IN"
+"304","Beca","Lyne-Pirkis",31,"Military Wives' Choir Singer","Aldershot, Hampshire",4,3,"10","Orange and Ginger Trifle","Limoncello and Blueberry BurstsMillionaire Shortbread","IN"
+"305","Frances","Quinn",31,"Children's Clothes Designer","Market Harborough, Leicestershire",4,3,"8","Apple and Blackberry Crumble Trifle","'Ballet Bites' Ginger NutcrackersSugar Plum Fairy Cakes","IN"
+"306","Glenn","Cosby",37,"English Teacher","Teignmouth, Devon",4,3,"1","Raspberry and Almond Trifle","Billionaire BouchéesOrange Financiers","IN"
+"307","Howard","Middleton",51,"Council Worker","Sheffield",4,3,"7","Caramel and Apple Trifle*","Black Coffee and Cardamom CakesWhite Stilton and Pear Biscuits","IN"
+"308","Kimberley","Wilson",30,"Psychologist","London",4,3,"6","Peach, Almond and Ginger Trifle","Chocolate Pistachio FinanciersLemon Bergamot Biscuits","IN"
+"309","Robert","Smart",54,"Space Satellite Designer","Melbourn, Cambridgeshire",4,3,"2","Rhubarb and Orange Trifle","Almond FriandsTurǫn Macaroons","IN"
+"310","Ruby","Tandoh",20,"History of Art and Philosophy Student","Southend, Essex",4,3,"3","Desert Island Trifle","Lemon Shortbread and White Chocolate SeashellsBlackberry and Chocolate Layer Cakes","IN"
+"311","Deborah","Manger",51,"Dentist","Peterborough",4,3,"9","Tropical Trifle*","Canelé Cherry and Chocolate CakesRose Cookies","OUT"
+"312","Mark","Onley",37,"Carpenter and Kitchen Fitter","Milton Keynes",4,3,"11","Ginger, Mango and Passion Fruit Trifle","Rose and Pistachio MacaroonsChocolate and Raspberry Bites","OUT"
+"313","Christine","Wallace",66,"Director of an engraving company","Didcot, Oxfordshire",4,3,"4","Caribbean Pina Colada Trifle","Ninety-NinersSachertorte Parcels","STAR BAKER"
+"314","Lucy","Bellamy",38,"Horticulturist","Grimsby, Lincolnshire",4,3,NA,NA,NA,NA
+"315","Toby","Waterworth",30,"Web Programmer","Reading, Berkshire",4,3,NA,NA,NA,NA
+"316","Beca","Lyne-Pirkis",31,"Military Wives' Choir Singer","Aldershot, Hampshire",4,4,"2","Mamgu's Cherry-Apple Tart","Moroccan Vegetable Filo Feast","IN"
+"317","Christine","Wallace",66,"Director of an engraving company","Didcot, Oxfordshire",4,4,"7","Granny Rogers' Apple, Plum & Cinnamon Country Pie","Roasted Vegetable Filo Pie with Feta Cheese","IN"
+"318","Frances","Quinn",31,"Children's Clothes Designer","Market Harborough, Leicestershire",4,4,"1","Peach Pie In the Sky","Cherry Tree Baklava Filo Pie","IN"
+"319","Glenn","Cosby",37,"English Teacher","Teignmouth, Devon",4,4,"9","Apple & Maple Syrup Pie","Spanakopita (Walnut and Feta Cheese)","IN"
+"320","Howard","Middleton",51,"Council Worker","Sheffield",4,4,"5","Apple Pie with Sage Pastry","Fresh Fig and Feta Filo Flan","IN"
+"321","Robert","Smart",54,"Space Satellite Designer","Melbourn, Cambridgeshire",4,4,"3","Apple and Pear Pie with Thyme","Spanakopita with St George's Mushrooms","IN"
+"322","Ruby","Tandoh",20,"History of Art and Philosophy Student","Southend, Essex",4,4,"6","Apple and Marzipan Pie","Rose, Almond and Raspberry Filo Pie","IN"
+"323","Ali","Imdad",25,"Charity worker","Saltley, Birmingham",4,4,"8","Apple and Ginger Pie with a Pecan and Walnut Shortcrust Pastry","Orange, Cardamom and Date M'Hanncha","OUT"
+"324","Kimberley","Wilson",30,"Psychologist","London",4,4,"4","Pecan and Rosemary Caramel Apple Pie","Chicken, Bacon and Butternut Squash Pie","STAR BAKER"
+"325","Deborah","Manger",51,"Dentist","Peterborough",4,4,NA,NA,NA,NA
+"326","Lucy","Bellamy",38,"Horticulturist","Grimsby, Lincolnshire",4,4,NA,NA,NA,NA
+"327","Mark","Onley",37,"Carpenter and Kitchen Fitter","Milton Keynes",4,4,NA,NA,NA,NA
+"328","Toby","Waterworth",30,"Web Programmer","Reading, Berkshire",4,4,NA,NA,NA,NA
+"329","Beca","Lyne-Pirkis",31,"Military Wives' Choir Singer","Aldershot, Hampshire",4,5,"5","Chocolate, Cherry and Hazelnut Brownies","Tiered Macaron and Sugar Dough Biscuit Centrepiece","IN"
+"330","Frances","Quinn",31,"Children's Clothes Designer","Market Harborough, Leicestershire",4,5,"3","Millionaire Banoffee Bonus","Biscuit Buttons and Beads","IN"
+"331","Glenn","Cosby",37,"English Teacher","Teignmouth, Devon",4,5,"2","Apricot and Pistachio Tiffin","Shortbread and Macaron Helter-Skelter","IN"
+"332","Howard","Middleton",51,"Council Worker","Sheffield",4,5,"8","Breakfast Traybake","Japanese Pagoda Tea Tower","IN"
+"333","Kimberley","Wilson",30,"Psychologist","London",4,5,"7","Cherry and Almond Bakewell Florentine Slice","Black and White Viennese Biscuit Stack","IN"
+"334","Ruby","Tandoh",20,"History of Art and Philosophy Student","Southend, Essex",4,5,"6","Blackberry and Lemon Bakewell Slice","'Dropped Ice-Cream' Biscuit Centrepiece","IN"
+"335","Robert","Smart",54,"Space Satellite Designer","Melbourn, Cambridgeshire",4,5,"4","Blueberry & Orange Traybake","Dalek","OUT"
+"336","Christine","Wallace",66,"Director of an engraving company","Didcot, Oxfordshire",4,5,"1","Mixed Berry and Almond Crumble Traybake","Shortbread Bavarian Clock Tower","STAR BAKER"
+"337","Ali","Imdad",25,"Charity worker","Saltley, Birmingham",4,5,NA,NA,NA,NA
+"338","Deborah","Manger",51,"Dentist","Peterborough",4,5,NA,NA,NA,NA
+"339","Lucy","Bellamy",38,"Horticulturist","Grimsby, Lincolnshire",4,5,NA,NA,NA,NA
+"340","Mark","Onley",37,"Carpenter and Kitchen Fitter","Milton Keynes",4,5,NA,NA,NA,NA
+"341","Toby","Waterworth",30,"Web Programmer","Reading, Berkshire",4,5,NA,NA,NA,NA
+"342","Beca","Lyne-Pirkis",31,"Military Wives' Choir Singer","Aldershot, Hampshire",4,6,"6","Bara Brith","Chocolate and Rum-Soaked Prune BriochesCardamom Spiced Lemon Iced Buns","IN"
+"343","Christine","Wallace",66,"Director of an engraving company","Didcot, Oxfordshire",4,6,"4","Oxford Nutty Fruit Loaf","Schnecken BunsVanilla Custard Skolebrød","IN"
+"344","Frances","Quinn",31,"Children's Clothes Designer","Market Harborough, Leicestershire",4,6,"2","Chai Tea Loaf","Hot Cross BriochesRhubarb and Custard Kolaches","IN"
+"345","Glenn","Cosby",37,"English Teacher","Teignmouth, Devon",4,6,"5","Devonshire Panettone","Almond and Apricot BriochesSticky Caramel Kanelbullen","IN"
+"346","Kimberley","Wilson",30,"Psychologist","London",4,6,"3","Chai Spiced Ginger and Date Tea Loaf","Double Chocolate and Hazelnut BriochesDanish Kanelsnurrer","IN"
+"347","Howard","Middleton",51,"Council Worker","Sheffield",4,6,"7","Date & Hemp Yorkshire Loaf","Peachy BunsGerman Baumschnecken","OUT"
+"348","Ruby","Tandoh",20,"History of Art and Philosophy Student","Southend, Essex",4,6,"1","Citrus Tea Loaf","Twisted Swedish KanelbullarSaffron St. Lucia Buns","STAR BAKER"
+"349","Ali","Imdad",25,"Charity worker","Saltley, Birmingham",4,6,NA,NA,NA,NA
+"350","Deborah","Manger",51,"Dentist","Peterborough",4,6,NA,NA,NA,NA
+"351","Lucy","Bellamy",38,"Horticulturist","Grimsby, Lincolnshire",4,6,NA,NA,NA,NA
+"352","Mark","Onley",37,"Carpenter and Kitchen Fitter","Milton Keynes",4,6,NA,NA,NA,NA
+"353","Robert","Smart",54,"Space Satellite Designer","Melbourn, Cambridgeshire",4,6,NA,NA,NA,NA
+"354","Toby","Waterworth",30,"Web Programmer","Reading, Berkshire",4,6,NA,NA,NA,NA
+"355","Beca","Lyne-Pirkis",31,"Military Wives' Choir Singer","Aldershot, Hampshire",4,7,"1","Spring Lamb and Vegetable Suet Puddingwith Redcurrant Gravy","Nectarine and Frangipane SquaresChocolate and Hazelnut Vol-au-ventsStrawberries and Cream Mille-feuille","IN"
+"356","Christine","Wallace",66,"Director of an engraving company","Didcot, Oxfordshire",4,7,"6","Spotted Dick 'With a Kick'and Vanilla Custard Ice Cream","Eccles CakesFresh Fruit BasketsLemon Cream Eton Mess Mille-feuille","IN"
+"357","Kimberley","Wilson",30,"Psychologist","London",4,7,"4","Barberry and Apple Spotted Dickwith Maple Syrup and White Chocolate Custard","Pear, Malt and Butterscotch Mille-feuilleBlackberry and Lemon Verbena Crème Brûle Custard TartsFig, Orange and Thyme Galette","IN"
+"358","Ruby","Tandoh",20,"History of Art and Philosophy Student","Southend, Essex",4,7,"2","Plum Jam Roly-Polywith Ginger Ice cream","Raspberry and Passion Fruit Mille-feuilleCaramelised Apple LatticePortuguese Custard Tarts","IN"
+"359","Glenn","Cosby",37,"English Teacher","Teignmouth, Devon",4,7,"3","Prune and Armagnac Puddingwith Boozy Butterscotch Sauce","Caramelised Apple and Marzipan TartletsChocolate Elephant EarsPassion Fruit Mille-feuille","OUT"
+"360","Frances","Quinn",31,"Children's Clothes Designer","Market Harborough, Leicestershire",4,7,"5","Figgy Roll-y Poly Puddingwith Caramelised Walnut and Honey Ice-Cream","French Framboise Cream HornsSheet Music Mille-feuilleBass Clef Palmiers","STAR BAKER"
+"361","Ali","Imdad",25,"Charity worker","Saltley, Birmingham",4,7,NA,NA,NA,NA
+"362","Deborah","Manger",51,"Dentist","Peterborough",4,7,NA,NA,NA,NA
+"363","Howard","Middleton",51,"Council Worker","Sheffield",4,7,NA,NA,NA,NA
+"364","Lucy","Bellamy",38,"Horticulturist","Grimsby, Lincolnshire",4,7,NA,NA,NA,NA
+"365","Mark","Onley",37,"Carpenter and Kitchen Fitter","Milton Keynes",4,7,NA,NA,NA,NA
+"366","Robert","Smart",54,"Space Satellite Designer","Melbourn, Cambridgeshire",4,7,NA,NA,NA,NA
+"367","Toby","Waterworth",30,"Web Programmer","Reading, Berkshire",4,7,NA,NA,NA,NA
+"368","Beca","Lyne-Pirkis",31,"Military Wives' Choir Singer","Aldershot, Hampshire",4,8,"4","Potato, Spelt and Rosemary Focaccia","Spiced Butternut Squash and Pecan 'Cheese' Cake","IN"
+"369","Frances","Quinn",31,"Children's Clothes Designer","Market Harborough, Leicestershire",4,8,"3","'Chelsea Flour Show' Bun Bouquet","Hidden Carrot Cake (Ground Praline, Beetroot and Walnut)","IN"
+"370","Kimberley","Wilson",30,"Psychologist","London",4,8,"2","Wild Garlic Pesto and Parma Ham Spelt Loaf","Butternut Squash and Spice Cake Toadstool House","IN"
+"371","Christine","Wallace",66,"Director of an engraving company","Didcot, Oxfordshire",4,8,"5","Multi-Seeded Loaf with Pumpkin, Sesame and Sunflower Seeds","Sweet Potato Guitar with Passion Fruit Icing and Marshmallow Fondant","OUT"
+"372","Ruby","Tandoh",20,"History of Art and Philosophy Student","Southend, Essex",4,8,"1","Mango and Nigella Seed Spelt Cob","Carrot Cake and Pistachio Garden Plot","STAR BAKER"
+"373","Ali","Imdad",25,"Charity worker","Saltley, Birmingham",4,8,NA,NA,NA,NA
+"374","Deborah","Manger",51,"Dentist","Peterborough",4,8,NA,NA,NA,NA
+"375","Glenn","Cosby",37,"English Teacher","Teignmouth, Devon",4,8,NA,NA,NA,NA
+"376","Howard","Middleton",51,"Council Worker","Sheffield",4,8,NA,NA,NA,NA
+"377","Lucy","Bellamy",38,"Horticulturist","Grimsby, Lincolnshire",4,8,NA,NA,NA,NA
+"378","Mark","Onley",37,"Carpenter and Kitchen Fitter","Milton Keynes",4,8,NA,NA,NA,NA
+"379","Robert","Smart",54,"Space Satellite Designer","Melbourn, Cambridgeshire",4,8,NA,NA,NA,NA
+"380","Toby","Waterworth",30,"Web Programmer","Reading, Berkshire",4,8,NA,NA,NA,NA
+"381","Frances","Quinn",31,"Children's Clothes Designer","Market Harborough, Leicestershire",4,9,"2","Legume Canapés:
+Chantenay CarrotsChoux Pastry TomatoesCauliflower Cheese Scones","Great British Soap Opera Cake","IN"
+"382","Ruby","Tandoh",20,"History of Art and Philosophy Student","Southend, Essex",4,9,"4","Beetroot Jelly on Poppy Seed BiscuitsSpinach, Parmesan and Egg TartletsChoux Buns with Goat's Cheese and Caramelised Onions","Chocolate, Almond Praline and Saffron Opera Cake","IN"
+"383","Beca","Lyne-Pirkis",31,"Military Wives' Choir Singer","Aldershot, Hampshire",4,9,"3","Stilton and Walnut MacaronsBeetroot and Salmon Choux PuffsWelsh Rarebit Tartlets","Banoffee Opera Cake","OUT"
+"384","Kimberley","Wilson",30,"Psychologist","London",4,9,"1","Pea Purée TartsCrab and Wasabi ProfiterolesSteamed Buns with Barbecue Chicken","Passion Fruit and Lime Opera Cake","STAR BAKER"
+"385","Ali","Imdad",25,"Charity worker","Saltley, Birmingham",4,9,NA,NA,NA,NA
+"386","Christine","Wallace",66,"Director of an engraving company","Didcot, Oxfordshire",4,9,NA,NA,NA,NA
+"387","Deborah","Manger",51,"Dentist","Peterborough",4,9,NA,NA,NA,NA
+"388","Glenn","Cosby",37,"English Teacher","Teignmouth, Devon",4,9,NA,NA,NA,NA
+"389","Howard","Middleton",51,"Council Worker","Sheffield",4,9,NA,NA,NA,NA
+"390","Lucy","Bellamy",38,"Horticulturist","Grimsby, Lincolnshire",4,9,NA,NA,NA,NA
+"391","Mark","Onley",37,"Carpenter and Kitchen Fitter","Milton Keynes",4,9,NA,NA,NA,NA
+"392","Robert","Smart",54,"Space Satellite Designer","Melbourn, Cambridgeshire",4,9,NA,NA,NA,NA
+"393","Toby","Waterworth",30,"Web Programmer","Reading, Berkshire",4,9,NA,NA,NA,NA
+"394","Kimberley","Wilson",30,"Psychologist","London",4,10,"1","Chicken and Pig Pie","Languages of Love Wedding Cake","Runner-up"
+"395","Ruby","Tandoh",20,"History of Art and Philosophy Student","Southend, Essex",4,10,"2","Picnic Basket Pie","Raspberry, Lemon and Passion Fruit Wedding Cake","Runner-up"
+"396","Frances","Quinn",31,"Children's Clothes Designer","Market Harborough, Leicestershire",4,10,"3","Rainbow Picnic Pie","Midsummer Night's Dream Wedding Cake","WINNER"
+"397","Ali","Imdad",25,"Charity worker","Saltley, Birmingham",4,10,NA,NA,NA,NA
+"398","Beca","Lyne-Pirkis",31,"Military Wives' Choir Singer","Aldershot, Hampshire",4,10,NA,NA,NA,NA
+"399","Christine","Wallace",66,"Director of an engraving company","Didcot, Oxfordshire",4,10,NA,NA,NA,NA
+"400","Deborah","Manger",51,"Dentist","Peterborough",4,10,NA,NA,NA,NA
+"401","Glenn","Cosby",37,"English Teacher","Teignmouth, Devon",4,10,NA,NA,NA,NA
+"402","Howard","Middleton",51,"Council Worker","Sheffield",4,10,NA,NA,NA,NA
+"403","Lucy","Bellamy",38,"Horticulturist","Grimsby, Lincolnshire",4,10,NA,NA,NA,NA
+"404","Mark","Onley",37,"Carpenter and Kitchen Fitter","Milton Keynes",4,10,NA,NA,NA,NA
+"405","Robert","Smart",54,"Space Satellite Designer","Melbourn, Cambridgeshire",4,10,NA,NA,NA,NA
+"406","Toby","Waterworth",30,"Web Programmer","Reading, Berkshire",4,10,NA,NA,NA,NA
+"407","Chetna","Makan",35,"Fashion Designer","Broadstairs, Kent",5,1,"3","Cardamom, Pistachio and Coffee Swiss Roll","Tiered Victoria Sponges with Lemon Curd and Raspberry Cream","IN"
+"408","Diana","Beard",69,"Women's Institute (WI) Judge","Alkington, Shropshire",5,1,"5","Mum's Sunday Tea Lemon Curd Swiss Roll","Chocolate Ganache Surprises","IN"
+"409","Enwezor","Nzegwu",39,"Business Consultant","Portsmouth, Hampshire",5,1,"9","Raspberry and Lemon Swiss Roll","Coffee and Walnut Battenberg Squares","IN"
+"410","Iain","Watters",31,"Construction Engineer","London/Belfast",5,1,"4","Apricot and Basil Swiss Roll with Mascarpone and White Chocolate Cream","Lemon Drizzle Cakes with Mascarpone Filling, Drizzled Icing, and Candied Lemon","IN"
+"411","Jordan","Cox",32,"IT Manager","Sneinton, Nottingham",5,1,"12","Kawaii Frasier Swiss Roll","Lemon Drizzle Cakes with Blueberry and Lemon Curd","IN"
+"412","Kate","Henry",41,"Furniture Restorer","Brighton, East Sussex",5,1,"6","Red Velvet and White Chocolate Swiss Roll","Mini Tiered Victoria Sponges","IN"
+"413","Luis","Troyano",42,"Graphic Designer","Poynton, Cheshire",5,1,"7","Spanish Swiss Roll","Raspberry and Lemon Genoise Slices with Lemon Drizzles","IN"
+"414","Martha","Collison",17,"Student","Ascot, Berkshire",5,1,"2","Tiramisu Swiss Roll","Mini Lemon and Thyme Drizzle Cakes","IN"
+"415","Norman","Calder",66,"Retired Naval Officer","Portknockie, Moray",5,1,"11","Black Forest Swiss Roll","Almond and Raspberry Mini Cakes","IN"
+"416","Richard","Burr",38,"Builder","Mill Hill, London",5,1,"10","Pistachio and Strawberry Swiss Roll","Miniature Coffee & Walnut Cakes","IN"
+"417","Claire","Goodwin",31,"Speech Therapist","Ashton upon Mersey, Trafford",5,1,"8","Chocolatey Orangey Swirly Roll","Mini Chocolate and Cherry Cakes","OUT"
+"418","Nancy","Birtwhistle",60,"Retired Practice Manager","Barton-upon-Humber, Lincolnshire",5,1,"1","Coffee and Hazelnut Swiss Roll","Jaffa Orange Cakes","STAR BAKER"
+"419","Chetna","Makan",35,"Fashion Designer","Broadstairs, Kent",5,2,"8","Fenugreek and Carom Crackers","Day On The Beach","IN"
+"420","Diana","Beard",69,"Women's Institute (WI) Judge","Alkington, Shropshire",5,2,"7","Parmesan Triangles","Express, First Class","IN"
+"421","Iain","Watters",31,"Construction Engineer","London/Belfast",5,2,"11","Za'atar and Fig Biscuits","Wild West Scene","IN"
+"422","Jordan","Cox",32,"IT Manager","Sneinton, Nottingham",5,2,"6","Sourdough, Parmesan and Chilli Biscuits","Monster Attack","IN"
+"423","Kate","Henry",41,"Furniture Restorer","Brighton, East Sussex",5,2,"4","Parmesan and Apple Biscuits","Tea Time","IN"
+"424","Luis","Troyano",42,"Graphic Designer","Poynton, Cheshire",5,2,"3","Black Olive and Rosemary Biscuits with Caramelised Onion Glaze","George Versus The Dragon","IN"
+"425","Martha","Collison",17,"Student","Ascot, Berkshire",5,2,"5","Caramelised Onion and Goat's Cheese Sandwich Biscuits","Ski Village Scene","IN"
+"426","Nancy","Birtwhistle",60,"Retired Practice Manager","Barton-upon-Humber, Lincolnshire",5,2,"2","Fennel and Rye Thins","Hansel and Gretel Scene","IN"
+"427","Norman","Calder",66,"Retired Naval Officer","Portknockie, Moray",5,2,"10","Farthing Biscuits","Zulu Boats at Dawn","IN"
+"428","Enwezor","Nzegwu",39,"Business Consultant","Portsmouth, Hampshire",5,2,"9","Pumpkin and Sunflower Savoury Biscuits","Space Adventure Moon Scene","OUT"
+"429","Richard","Burr",38,"Builder","Mill Hill, London",5,2,"1","Rosemary Seeded Crackers","Pirates!","STAR BAKER"
+"430","Claire","Goodwin",31,"Speech Therapist","Ashton upon Mersey, Trafford",5,2,NA,NA,NA,NA
+"431","Chetna","Makan",35,"Fashion Designer","Broadstairs, Kent",5,3,"8","Onion and Pine Nut Rolls","Rolled and Filled Twin Loaf","IN"
+"432","Diana","Beard",69,"Women's Institute (WI) Judge","Alkington, Shropshire",5,3,"7","Rustic Picnic Rolls","Sharing Savoury Pinwheel","IN"
+"433","Iain","Watters",31,"Construction Engineer","London/Belfast",5,3,"9","Cranberry and Walnut Rye Bread Rolls","Moroccan Plaited with a Bessara Dip","IN"
+"434","Kate","Henry",41,"Furniture Restorer","Brighton, East Sussex",5,3,"1","Orange and Cardamom Rye Bread Knots","Prosciutto, Olive and Coriander Bread","IN"
+"435","Martha","Collison",17,"Student","Ascot, Berkshire",5,3,"3","Date and Walnut Rye Rolls","Stuffed Sunflower Loaf","IN"
+"436","Nancy","Birtwhistle",60,"Retired Practice Manager","Barton-upon-Humber, Lincolnshire",5,3,"5","Cider and Walnut Crusty Rolls","'Full English' Stromboli","IN"
+"437","Norman","Calder",66,"Retired Naval Officer","Portknockie, Moray",5,3,"4","Rye Bread Rolls","Chicken and Roasted Vegetable Picnic Loaf","IN"
+"438","Richard","Burr",38,"Builder","Mill Hill, London",5,3,"6","Rye and Cranberry Rolls","Pesto Pinwheel","IN"
+"439","Jordan","Cox",32,"IT Manager","Sneinton, Nottingham",5,3,"10","Rye and Spelt Bread Rolls","Strawberry Raspberry Cheesecake Brioche","OUT"
+"440","Luis","Troyano",42,"Graphic Designer","Poynton, Cheshire",5,3,"2","Opposites Attract Rolls","Roscón de Reyes","STAR BAKER"
+"441","Claire","Goodwin",31,"Speech Therapist","Ashton upon Mersey, Trafford",5,3,NA,NA,NA,NA
+"442","Enwezor","Nzegwu",39,"Business Consultant","Portsmouth, Hampshire",5,3,NA,NA,NA,NA
+"443","Chetna","Makan",35,"Fashion Designer","Broadstairs, Kent",5,4,"3","Rhubarb, Strawberry and Orange Puddings","Mango, Raspberry and Coconut Baked Alaska","IN"
+"444","Diana","Beard",69,"Women's Institute (WI) Judge","Alkington, Shropshire",5,4,"9","Orange and Lemon Curd Pots","Raspberry Ripple Alaska Swan","IN"
+"445","Kate","Henry",41,"Furniture Restorer","Brighton, East Sussex",5,4,"7","Chocolate and Salted Caramel Molten Puddings","Pistachio, Raspberry and Chocolate Baked Alaska","IN"
+"446","Luis","Troyano",42,"Graphic Designer","Poynton, Cheshire",5,4,"2","Pears in Puddings","Bakewell Alaska","IN"
+"447","Martha","Collison",17,"Student","Ascot, Berkshire",5,4,"1","Peanut Butter Chocolate Fondants","Key Lime Baked Alaska","IN"
+"448","Nancy","Birtwhistle",60,"Retired Practice Manager","Barton-upon-Humber, Lincolnshire",5,4,"4","Pistachio Puddings with Chocolate Sauce","Summer Pudding Alaska","IN"
+"449","Norman","Calder",66,"Retired Naval Officer","Portknockie, Moray",5,4,"8","Mini Sticky Toffee Puddings","Baked Alaska with Strawberry Surprise","IN"
+"450","Iain","Watters",31,"Construction Engineer","London/Belfast",5,4,"6","Chocolate, Lime and Raspberry Fondants","Chocolate, Black Sesame Seed and Coffee Caramel Baked Alaska (not presented)","OUT"
+"451","Richard","Burr",38,"Builder","Mill Hill, London",5,4,"5","Black Forest Chocolate Fondants","Tiramisu Baked Alaska","STAR BAKER"
+"452","Claire","Goodwin",31,"Speech Therapist","Ashton upon Mersey, Trafford",5,4,NA,NA,NA,NA
+"453","Enwezor","Nzegwu",39,"Business Consultant","Portsmouth, Hampshire",5,4,NA,NA,NA,NA
+"454","Jordan","Cox",32,"IT Manager","Sneinton, Nottingham",5,4,NA,NA,NA,NA
+"455","Chetna","Makan",35,"Fashion Designer","Broadstairs, Kent",5,5,"2","Rice Custard Tart with Mangoes and Raspberries","Fusion Tiered Pies","IN"
+"456","Luis","Troyano",42,"Graphic Designer","Poynton, Cheshire",5,5,"6","Tropical Manchester Tart","Four Fruity Seasons Tower","IN"
+"457","Martha","Collison",17,"Student","Ascot, Berkshire",5,5,"1","Pistachio, Apricot and Honey Custard Tart","Three Little Pigs Pie","IN"
+"458","Nancy","Birtwhistle",60,"Retired Practice Manager","Barton-upon-Humber, Lincolnshire",5,5,"4","Chocolate Crusted Passion Fruit Tart","Trio of Apple Pies","IN"
+"459","Richard","Burr",38,"Builder","Mill Hill, London",5,5,"7","Fig and Orange Tart","Three Course Autumn Pie Feast","IN"
+"460","Norman","Calder",66,"Retired Naval Officer","Portknockie, Moray",5,5,"5","Tarte au Citron","Pieful Tower","OUT"
+"461","Kate","Henry",41,"Furniture Restorer","Brighton, East Sussex",5,5,"3","Rhubarb and Custard Tart","Rhubarb, Prune and Apple Pies","STAR BAKER"
+"462","Diana","Beard",69,"Women's Institute (WI) Judge","Alkington, Shropshire",5,5,NA,NA,NA,"WD"
+"463","Claire","Goodwin",31,"Speech Therapist","Ashton upon Mersey, Trafford",5,5,NA,NA,NA,NA
+"464","Enwezor","Nzegwu",39,"Business Consultant","Portsmouth, Hampshire",5,5,NA,NA,NA,NA
+"465","Iain","Watters",31,"Construction Engineer","London/Belfast",5,5,NA,NA,NA,NA
+"466","Jordan","Cox",32,"IT Manager","Sneinton, Nottingham",5,5,NA,NA,NA,NA
+"467","Diana","Beard",69,"Women's Institute (WI) Judge","Alkington, Shropshire",5,6,NA,NA,NA,"IN"
+"468","Kate","Henry",41,"Furniture Restorer","Brighton, East Sussex",5,6,"6","Pecan, Chocolate and Sour Cherry Yeast Cake","Trio of Dobos Tortes","IN"
+"469","Luis","Troyano",42,"Graphic Designer","Poynton, Cheshire",5,6,"3","Apple and Cinnamon Kugelhopf with Honeyed Apples","The Cage on the Rocky Hill","IN"
+"470","Martha","Collison",17,"Student","Ascot, Berkshire",5,6,"4","Dark Chocolate and Almond Liqueur Savarin","Chess-Themed Chocolate and Salted Caramel Dobos Torte","IN"
+"471","Nancy","Birtwhistle",60,"Retired Practice Manager","Barton-upon-Humber, Lincolnshire",5,6,"1","Rum Punch Savarin with Coconut Cream and Tropical Fruits","Chocolate and Caramel Dobos Torte","IN"
+"472","Richard","Burr",38,"Builder","Mill Hill, London",5,6,"5","Fruity Guglhupf with an Orange Glaze","Sugar Forest Dobos Torte","IN"
+"473","Chetna","Makan",35,"Fashion Designer","Broadstairs, Kent",5,6,"2","Orange Savarin with Cinnamon Cream","Almond Liqueur Dobos Torte with Chocolate Caramel Buttercream","STAR BAKER"
+"474","Claire","Goodwin",31,"Speech Therapist","Ashton upon Mersey, Trafford",5,6,NA,NA,NA,NA
+"475","Enwezor","Nzegwu",39,"Business Consultant","Portsmouth, Hampshire",5,6,NA,NA,NA,NA
+"476","Iain","Watters",31,"Construction Engineer","London/Belfast",5,6,NA,NA,NA,NA
+"477","Jordan","Cox",32,"IT Manager","Sneinton, Nottingham",5,6,NA,NA,NA,NA
+"478","Norman","Calder",66,"Retired Naval Officer","Portknockie, Moray",5,6,NA,NA,NA,NA
+"479","Chetna","Makan",35,"Fashion Designer","Broadstairs, Kent",5,7,"6","Crispy Lentil Kachori","Chocolate and Mango & Lemon Meringue Éclairs","IN"
+"480","Diana","Beard",69,"Women's Institute (WI) Judge","Alkington, Shropshire",5,7,NA,NA,NA,"IN"
+"481","Luis","Troyano",42,"Graphic Designer","Poynton, Cheshire",5,7,"5","Childhood Empanadas","Stars and Stripes Éclairs
+(Blueberry Cheesecake & Peanut Butter and Jelly Éclairs)","IN"
+"482","Martha","Collison",17,"Student","Ascot, Berkshire",5,7,"3","Mini Beef Wellingtons","Rhubarb and Custard & Maple Syrup and Bacon Éclairs","IN"
+"483","Nancy","Birtwhistle",60,"Retired Practice Manager","Barton-upon-Humber, Lincolnshire",5,7,"2","Spicy Duck Pasties","Smoked Salmon and Horseradish & Raspberry Ripple Éclairs","IN"
+"484","Kate","Henry",41,"Furniture Restorer","Brighton, East Sussex",5,7,"4","Spinach and Paneer Spicy Samosa","Neapolitan & Lemon Meringue Éclairs","OUT"
+"485","Richard","Burr",38,"Builder","Mill Hill, London",5,7,"1","Minted Lamb Pasties","Stair of Éclairs
+(Lavender and Blueberry & Rose and Raspberry Éclairs)","STAR BAKER"
+"486","Claire","Goodwin",31,"Speech Therapist","Ashton upon Mersey, Trafford",5,7,NA,NA,NA,NA
+"487","Enwezor","Nzegwu",39,"Business Consultant","Portsmouth, Hampshire",5,7,NA,NA,NA,NA
+"488","Iain","Watters",31,"Construction Engineer","London/Belfast",5,7,NA,NA,NA,NA
+"489","Jordan","Cox",32,"IT Manager","Sneinton, Nottingham",5,7,NA,NA,NA,NA
+"490","Norman","Calder",66,"Retired Naval Officer","Portknockie, Moray",5,7,NA,NA,NA,NA
+"491","Chetna","Makan",35,"Fashion Designer","Broadstairs, Kent",5,8,"1","Date and Walnut Swirl Bread","Chocolate Mousse Filled DoughnutsBraided Doughnuts","IN"
+"492","Diana","Beard",69,"Women's Institute (WI) Judge","Alkington, Shropshire",5,8,NA,NA,NA,"IN"
+"493","Luis","Troyano",42,"Graphic Designer","Poynton, Cheshire",5,8,"2","Black Forest Cherry Tree","Cocktail Doughnuts
+(Mudslide & Raspberry Mojito)","IN"
+"494","Nancy","Birtwhistle",60,"Retired Practice Manager","Barton-upon-Humber, Lincolnshire",5,8,"3","Lincolnshire Plum Braid","Doughnut Family Tree
+(Limoncello and Almond & Milk Chocolate and Orange)","IN"
+"495","Martha","Collison",17,"Student","Ascot, Berkshire",5,8,"5","Spiced Plum Iced Bread Swirl","Glazed Lemon & Poppy Seed DoughnutsChocolate & Passion Fruit Doughnuts","OUT"
+"496","Richard","Burr",38,"Builder","Mill Hill, London",5,8,"4","Fruit Swedish Tea Ring","Rhubarb and Custard and Toffee Apple Doughnuts","STAR BAKER"
+"497","Claire","Goodwin",31,"Speech Therapist","Ashton upon Mersey, Trafford",5,8,NA,NA,NA,NA
+"498","Enwezor","Nzegwu",39,"Business Consultant","Portsmouth, Hampshire",5,8,NA,NA,NA,NA
+"499","Iain","Watters",31,"Construction Engineer","London/Belfast",5,8,NA,NA,NA,NA
+"500","Jordan","Cox",32,"IT Manager","Sneinton, Nottingham",5,8,NA,NA,NA,NA
+"501","Kate","Henry",41,"Furniture Restorer","Brighton, East Sussex",5,8,NA,NA,NA,NA
+"502","Norman","Calder",66,"Retired Naval Officer","Portknockie, Moray",5,8,NA,NA,NA,NA
+"503","Diana","Beard",69,"Women's Institute (WI) Judge","Alkington, Shropshire",5,9,NA,NA,NA,"IN"
+"504","Luis","Troyano",42,"Graphic Designer","Poynton, Cheshire",5,9,"1","Indian Rose BaklavaHalwa Baklava Rolls","Chocolate Mousse & Cherry EntremetsPomegranate, Fig & Pistachio Sponges","IN"
+"505","Nancy","Birtwhistle",60,"Retired Practice Manager","Barton-upon-Humber, Lincolnshire",5,9,"3","Coffee and Chocolate BaklavaBreakfast Baklava","Raspberry NonnettesLime and Passion Fruit Entremets","IN"
+"506","Chetna","Makan",35,"Fashion Designer","Broadstairs, Kent",5,9,"4","Chocolate Orange Baklava Masala Chai Baklava","Chocolate, Orange & Nut EntremetsCappuccino Entremets","OUT"
+"507","Richard","Burr",38,"Builder","Mill Hill, London",5,9,"2","Rose and Pistachio BaklavaWalnut and Almond Baklava","Hazelnut Mocha EntremetsPink Grapefruit Entremets","STAR BAKER"
+"508","Claire","Goodwin",31,"Speech Therapist","Ashton upon Mersey, Trafford",5,9,NA,NA,NA,NA
+"509","Enwezor","Nzegwu",39,"Business Consultant","Portsmouth, Hampshire",5,9,NA,NA,NA,NA
+"510","Iain","Watters",31,"Construction Engineer","London/Belfast",5,9,NA,NA,NA,NA
+"511","Jordan","Cox",32,"IT Manager","Sneinton, Nottingham",5,9,NA,NA,NA,NA
+"512","Kate","Henry",41,"Furniture Restorer","Brighton, East Sussex",5,9,NA,NA,NA,NA
+"513","Martha","Collison",17,"Student","Ascot, Berkshire",5,9,NA,NA,NA,NA
+"514","Norman","Calder",66,"Retired Naval Officer","Portknockie, Moray",5,9,NA,NA,NA,NA
+"515","Diana","Beard",69,"Women's Institute (WI) Judge","Alkington, Shropshire",5,10,NA,NA,NA,"IN"
+"516","Luis","Troyano",42,"Graphic Designer","Poynton, Cheshire",5,10,"2","Apple, Walnut, Raisin and Cheshire Cheese ChaussonsPain au Chocolat Blanc with Raspberries and Cream Cheese","Village in Chocolate","Runner-up"
+"517","Richard","Burr",38,"Builder","Mill Hill, London",5,10,"3","Pear Pain au ChocolatPain Au Lait","Mill on the Hill","Runner-up"
+"518","Nancy","Birtwhistle",60,"Retired Practice Manager","Barton-upon-Humber, Lincolnshire",5,10,"1","Apple and Lemon KitesRaspberry and Almond Croissants","Red Windmill","WINNER"
+"519","Chetna","Makan",35,"Fashion Designer","Broadstairs, Kent",5,10,NA,NA,NA,NA
+"520","Claire","Goodwin",31,"Speech Therapist","Ashton upon Mersey, Trafford",5,10,NA,NA,NA,NA
+"521","Enwezor","Nzegwu",39,"Business Consultant","Portsmouth, Hampshire",5,10,NA,NA,NA,NA
+"522","Iain","Watters",31,"Construction Engineer","London/Belfast",5,10,NA,NA,NA,NA
+"523","Jordan","Cox",32,"IT Manager","Sneinton, Nottingham",5,10,NA,NA,NA,NA
+"524","Kate","Henry",41,"Furniture Restorer","Brighton, East Sussex",5,10,NA,NA,NA,NA
+"525","Martha","Collison",17,"Student","Ascot, Berkshire",5,10,NA,NA,NA,NA
+"526","Norman","Calder",66,"Retired Naval Officer","Portknockie, Moray",5,10,NA,NA,NA,NA
+"527","Alvin","Magallanes",37,"Nurse","Bracknell, Berkshire",6,1,"2","Orange Vanilla and Fig Madeira Cake","Black Forest Gâteau","IN"
+"528","Dorret","Conway",53,"Accountant","Penwortham, Lancashire",6,1,"5","Madeira Cake with Candied Lemons","Enchanted Forest Gâteau","IN"
+"529","Flora","Shedden",19,"Art gallery assistant","Dunkeld, Perth and Kinross",6,1,"6","Blood Orange Madeira Cake","Black Forest Gâteau","IN"
+"530","Ian","Cumming",41,"Travel photographer","Great Wilbraham, Cambridgeshire",6,1,"8","Somewhere West of Madeira Cake","Black Forest Cherry Tree","IN"
+"531","Mat","Riley",37,"Fire fighter","London",6,1,"7","Gin and Tonic Madeira Cake","Black Forest Gateau","IN"
+"532","Nadiya","Hussain",30,"Full-time mother","Leeds / Luton",6,1,"12","Orange and Green Cardamom Madeira Cake","Quadruple Chocolate Black Forest Gâteau","IN"
+"533","Paul","Jagger",49,"Prison governor","Swansea, Wales",6,1,"10","Lemon, Ginger and Caraway Seed Madeira Cake","Black Forest Chocolate Creation","IN"
+"534","Sandy","Docherty",49,"Child welfare officer","Yeadon, West Yorkshire",6,1,"9","Madeira Cake with Almond Liqueur and Chopped Apricots","Black Forest Gâteau","IN"
+"535","Tamal","Ray",29,"Trainee anaesthetist","Manchester",6,1,"4","Pistachio and Rose Madeira Cake","Black Forest Gâteau in a Chocolate Shell","IN"
+"536","Ugnė","Bubnaityte",32,"PA and administrator","Woodford, London / Vilkaviškis, Lithuania",6,1,"1","Lemon and Thyme Madeira Cake","Falling Cup Gâteau","IN"
+"537","Stu","Henshall",35,"Professional musician","Guildford, Surrey",6,1,"11","Marley Madeira Cake","Purple Forest Gâteau","OUT"
+"538","Marie","Campbell",66,"Retired","Auchterarder, Perthshire",6,1,"3","Zingy Citrus Madeira Cake","A Walk in the Black Forest","STAR BAKER"
+"539","Alvin","Magallanes",37,"Nurse","Bracknell, Berkshire",6,2,"6","Jackfruit, Pistachio and Macadamia Biscotti","Gingerbread Box filled with Brandy Snaps","IN"
+"540","Dorret","Conway",53,"Accountant","Penwortham, Lancashire",6,2,"1","Almond and Apricot Biscotti with Amber Sugar Crystals","Box of Frogs","IN"
+"541","Flora","Shedden",19,"Art gallery assistant","Dunkeld, Perth and Kinross",6,2,"2","Wedding Biscotti","Honey and Earl Grey Tea Box","IN"
+"542","Mat","Riley",37,"Fire fighter","London",6,2,"5","Pistachio, Cranberry and White Chocolate Biscotti","Gingerbread Fire Engine","IN"
+"543","Nadiya","Hussain",30,"Full-time mother","Leeds / Luton",6,2,"9","Coconut, Fennel and Pistachio Biscotti","Box of Fortunes","IN"
+"544","Paul","Jagger",49,"Prison governor","Swansea, Wales",6,2,"10","Chocolate, Hazelnut and Fig Biscotti","Memory Box","IN"
+"545","Sandy","Docherty",49,"Child welfare officer","Yeadon, West Yorkshire",6,2,"4","Chocolate Chunk and Hazelnut Biscotti","Sundried Tomato Cheese Biscuit Box","IN"
+"546","Tamal","Ray",29,"Trainee anaesthetist","Manchester",6,2,"8","Cinnamon, Maple and Cranberry Biscotti","Chessboard Box","IN"
+"547","Ugnė","Bubnaityte",32,"PA and administrator","Woodford, London / Vilkaviškis, Lithuania",6,2,"7","White Wine Biscotti","Baby Climbing into the Cookie Box","IN"
+"548","Marie","Campbell",66,"Retired","Auchterarder, Perthshire",6,2,"11","Biscotti Italiano","Russian Box","OUT"
+"549","Ian","Cumming",41,"Travel photographer","Great Wilbraham, Cambridgeshire",6,2,"3","Orange, Rosemary and Almond Biscotti","Sandwich de la Confiture","STAR BAKER"
+"550","Stu","Henshall",35,"Professional musician","Guildford, Surrey",6,2,NA,NA,NA,NA
+"551","Alvin","Magallanes",37,"Nurse","Bracknell, Berkshire",6,3,"4","Prosciutto, Manchego and Balsamic Onion Soda Breads","Cornucopia","IN"
+"552","Flora","Shedden",19,"Art gallery assistant","Dunkeld, Perth and Kinross",6,3,"2","Fig and Hazelnut Rye Breads","Herb Couture","IN"
+"553","Mat","Riley",37,"Fire fighter","London",6,3,"8","Jalapeño, Mexican Cheddar and Smoked Salt Soda Breads","Curry Inspired Brighton Pavilion","IN"
+"554","Nadiya","Hussain",30,"Full-time mother","Leeds / Luton",6,3,"9","Mexican Bread with Warm Tomato Salsa","Snake Charmer's Basket","IN"
+"555","Paul","Jagger",49,"Prison governor","Swansea, Wales",6,3,"10","Cranberry and Orange Sweet Soda Breads","King of the Jungle","IN"
+"556","Sandy","Docherty",49,"Child welfare officer","Yeadon, West Yorkshire",6,3,"7","Soda Breads with Smoked Bacon and Onion","Basket of Bread Flowers with a Walnut and Blue Cheese Centre","IN"
+"557","Tamal","Ray",29,"Trainee anaesthetist","Manchester",6,3,"3","Fig, Cheese and Walnut Breads","Breadcycle","IN"
+"558","Ugnė","Bubnaityte",32,"PA and administrator","Woodford, London / Vilkaviškis, Lithuania",6,3,"5","Chocolate Quick Breads with Salted Caramel Sauce","Easter Basket","IN"
+"559","Dorret","Conway",53,"Accountant","Penwortham, Lancashire",6,3,"6","Walnut and Stilton Soda Breads","Unmade Bread","OUT"
+"560","Ian","Cumming",41,"Travel photographer","Great Wilbraham, Cambridgeshire",6,3,"1","Wild Garlic Pesto Soda Breads","Flour Power","STAR BAKER"
+"561","Marie","Campbell",66,"Retired","Auchterarder, Perthshire",6,3,NA,NA,NA,NA
+"562","Stu","Henshall",35,"Professional musician","Guildford, Surrey",6,3,NA,NA,NA,NA
+"563","Alvin","Magallanes",37,"Nurse","Bracknell, Berkshire",6,4,"9","Blackberry Crème Brûlées","Tower of Fruits Cheesecakes","IN"
+"564","Flora","Shedden",19,"Art gallery assistant","Dunkeld, Perth and Kinross",6,4,"3","Rhubarb and Ginger Crème Brûlées","Elderflower and Granola Cheesecakes","IN"
+"565","Mat","Riley",37,"Fire fighter","London",6,4,"7","Coconut Crème Brûlées","Chocolate Bar Cheesecakes","IN"
+"566","Nadiya","Hussain",30,"Full-time mother","Leeds / Luton",6,4,"8","Cinnamon Tea Crème Brûlées","Fizzy Pop Cheesecakes","IN"
+"567","Paul","Jagger",49,"Prison governor","Swansea, Wales",6,4,"1","Almond Crème Brûlées","Berry Cheesecake Tower","IN"
+"568","Tamal","Ray",29,"Trainee anaesthetist","Manchester",6,4,"5","Rhubarb and Ginger Crème Brûlées","Mango, Hazelnut and Rosemary Cheesecake Trio","IN"
+"569","Ugnė","Bubnaityte",32,"PA and administrator","Woodford, London / Vilkaviškis, Lithuania",6,4,"2","Marula Fruit and Coffee Liqueur Crème Brûlées","Lime, Coconut and Hazelnut Cheesecakes","IN"
+"570","Sandy","Docherty",49,"Child welfare officer","Yeadon, West Yorkshire",6,4,"6","Pontefract Crème Brûlées","Cassata, Whisky and Orange & Apple Pie Cheesecakes","OUT"
+"571","Ian","Cumming",41,"Travel photographer","Great Wilbraham, Cambridgeshire",6,4,"4","Pomegranate Two Ways Crème Brûlées","Trio of Spicy and Herby Baked Cheesecakes","STAR BAKER"
+"572","Dorret","Conway",53,"Accountant","Penwortham, Lancashire",6,4,NA,NA,NA,NA
+"573","Marie","Campbell",66,"Retired","Auchterarder, Perthshire",6,4,NA,NA,NA,NA
+"574","Stu","Henshall",35,"Professional musician","Guildford, Surrey",6,4,NA,NA,NA,NA
+"575","Alvin","Magallanes",37,"Nurse","Bracknell, Berkshire",6,5,"8","Pineapple Upside Down Cake","Buko Pandan, Mango and Passion Fruit Ice Cream Roll","IN"
+"576","Flora","Shedden",19,"Art gallery assistant","Dunkeld, Perth and Kinross",6,5,"3","Pistachio, Apple and Cardamom Madeleine Cake","Chocolate and Pear Bûche","IN"
+"577","Ian","Cumming",41,"Travel photographer","Great Wilbraham, Cambridgeshire",6,5,"5","Honey and Flowers Cake","Dessert Island","IN"
+"578","Mat","Riley",37,"Fire fighter","London",6,5,"4","Sugar Free Carrot Cake","Raspberry and Coconut Ice Cream Roll","IN"
+"579","Paul","Jagger",49,"Prison governor","Swansea, Wales",6,5,"2","Carrot & Pecan Cake","Dessert Island Getaway","IN"
+"580","Tamal","Ray",29,"Trainee anaesthetist","Manchester",6,5,"7","Honey and Grapefruit Polenta Cake","Passion Fruit and Pineapple Ice Cream Roll","IN"
+"581","Ugnė","Bubnaityte",32,"PA and administrator","Woodford, London / Vilkaviškis, Lithuania",6,5,"6","Chocolate and Hazelnut Sugar-Free Cake","Chocolate, Peanut Butter and Grape Jam Roll","OUT"
+"582","Nadiya","Hussain",30,"Full-time mother","Leeds / Luton",6,5,"1","Naked Blueberry and Caraway Crunch Cake","Chocolate and Strawberry Lime Ice Cream Roll","STAR BAKER"
+"583","Dorret","Conway",53,"Accountant","Penwortham, Lancashire",6,5,NA,NA,NA,NA
+"584","Marie","Campbell",66,"Retired","Auchterarder, Perthshire",6,5,NA,NA,NA,NA
+"585","Sandy","Docherty",49,"Child welfare officer","Yeadon, West Yorkshire",6,5,NA,NA,NA,NA
+"586","Stu","Henshall",35,"Professional musician","Guildford, Surrey",6,5,NA,NA,NA,NA
+"587","Flora","Shedden",19,"Art gallery assistant","Dunkeld, Perth and Kinross",6,6,"2","Apricot and Rosemary Frangipane Tart","Asparagus and Parma Ham and Praline and Chocolate Vol-au-vents","IN"
+"588","Ian","Cumming",41,"Travel photographer","Great Wilbraham, Cambridgeshire",6,6,"3","Pear and Raspberry Frangipane Tart","vol-au-vents Terre et Mer","IN"
+"589","Nadiya","Hussain",30,"Full-time mother","Leeds / Luton",6,6,"4","Bay Leaf, Rong Tea and Pear Tart","Bengali Korma and Clementine with Cod Vol-au-vents","IN"
+"590","Paul","Jagger",49,"Prison governor","Swansea, Wales",6,6,"5","Christmas Frangipane Tart","Savoury and Sweet Bouchées","IN"
+"591","Tamal","Ray",29,"Trainee anaesthetist","Manchester",6,6,"7","Spiced Pear Frangipane Tart","Fennel and Rosemary Pulled Pork and Chicken and Coriander vol-au-vents","IN"
+"592","Alvin","Magallanes",37,"Nurse","Bracknell, Berkshire",6,6,"6","Plum Frangipane Tart","Smoked Salmon En Croûte and Vermouth Chicken à la King Vol-au-vents","OUT"
+"593","Mat","Riley",37,"Fire fighter","London",6,6,"1","Piña Colada Frangipane Tart","His 'n' Hers Vol-au-vents","STAR BAKER"
+"594","Dorret","Conway",53,"Accountant","Penwortham, Lancashire",6,6,NA,NA,NA,NA
+"595","Marie","Campbell",66,"Retired","Auchterarder, Perthshire",6,6,NA,NA,NA,NA
+"596","Sandy","Docherty",49,"Child welfare officer","Yeadon, West Yorkshire",6,6,NA,NA,NA,NA
+"597","Stu","Henshall",35,"Professional musician","Guildford, Surrey",6,6,NA,NA,NA,NA
+"598","Ugnė","Bubnaityte",32,"PA and administrator","Woodford, London / Vilkaviškis, Lithuania",6,6,NA,NA,NA,NA
+"599","Flora","Shedden",19,"Art gallery assistant","Dunkeld, Perth and Kinross",6,7,"4","Game Pie with Shallot and Apple Chutney","Raspberry, Pomegranate and Champagne Charlotte Russe","IN"
+"600","Ian","Cumming",41,"Travel photographer","Great Wilbraham, Cambridgeshire",6,7,"5","Roadkill Pie","Victoria's Crown Charlotte Russe","IN"
+"601","Nadiya","Hussain",30,"Full-time mother","Leeds / Luton",6,7,"1","Aromatic Raised Game Pie","Mango and Raspberry Charlotte Russe","IN"
+"602","Paul","Jagger",49,"Prison governor","Swansea, Wales",6,7,"2","Not a Boaring Pie","Charlotte Rose","IN"
+"603","Mat","Riley",37,"Fire fighter","London",6,7,"6","Raised Venison and Pigeon Pie","Strawberry Charlotte Russe","OUT"
+"604","Tamal","Ray",29,"Trainee anaesthetist","Manchester",6,7,"3","Middle Eastern Game Pie","Spiced Blackberry, Raspberry and Cardamom Charlotte Russe","STAR BAKER"
+"605","Alvin","Magallanes",37,"Nurse","Bracknell, Berkshire",6,7,NA,NA,NA,NA
+"606","Dorret","Conway",53,"Accountant","Penwortham, Lancashire",6,7,NA,NA,NA,NA
+"607","Marie","Campbell",66,"Retired","Auchterarder, Perthshire",6,7,NA,NA,NA,NA
+"608","Sandy","Docherty",49,"Child welfare officer","Yeadon, West Yorkshire",6,7,NA,NA,NA,NA
+"609","Stu","Henshall",35,"Professional musician","Guildford, Surrey",6,7,NA,NA,NA,NA
+"610","Ugnė","Bubnaityte",32,"PA and administrator","Woodford, London / Vilkaviškis, Lithuania",6,7,NA,NA,NA,NA
+"611","Flora","Shedden",19,"Art gallery assistant","Dunkeld, Perth and Kinross",6,8,"3","Peach & Lemon Thyme and Smoked Almond & Butterscotch Cream Horns","Lime & Basil and Coconut & White Chocolate Religieuse à l'ancienne","IN"
+"612","Ian","Cumming",41,"Travel photographer","Great Wilbraham, Cambridgeshire",6,8,"2","Mont Blanc & Black Forest Gâteau Horns","Nun with Hidden Passions","IN"
+"613","Tamal","Ray",29,"Trainee anaesthetist","Manchester",6,8,"4","Lime & Mascarpone and Malt Cream Horns","Passionfruit & Mango and Pistachio & Raspberry Religieuse à l'ancienne","IN"
+"614","Paul","Jagger",49,"Prison governor","Swansea, Wales",6,8,"5","Café Tipple & Banana Crunch-away Horns","Religieuse à l'ancienne","OUT"
+"615","Nadiya","Hussain",30,"Full-time mother","Leeds / Luton",6,8,"1","Rose Pistachio and Mocha Hazelnut Horns","Bubble Gum and Peppermint Cream Religieuse à l'ancienne","STAR BAKER"
+"616","Alvin","Magallanes",37,"Nurse","Bracknell, Berkshire",6,8,NA,NA,NA,NA
+"617","Dorret","Conway",53,"Accountant","Penwortham, Lancashire",6,8,NA,NA,NA,NA
+"618","Marie","Campbell",66,"Retired","Auchterarder, Perthshire",6,8,NA,NA,NA,NA
+"619","Mat","Riley",37,"Fire fighter","London",6,8,NA,NA,NA,NA
+"620","Sandy","Docherty",49,"Child welfare officer","Yeadon, West Yorkshire",6,8,NA,NA,NA,NA
+"621","Stu","Henshall",35,"Professional musician","Guildford, Surrey",6,8,NA,NA,NA,NA
+"622","Ugnė","Bubnaityte",32,"PA and administrator","Woodford, London / Vilkaviškis, Lithuania",6,8,NA,NA,NA,NA
+"623","Ian","Cumming",41,"Travel photographer","Great Wilbraham, Cambridgeshire",6,9,"3","Chocolate and Bay Tart","Chocolate Well","IN"
+"624","Tamal","Ray",29,"Trainee anaesthetist","Manchester",6,9,"2","Chocolate New York Pie","Chocolate Bell Tower","IN"
+"625","Flora","Shedden",19,"Art gallery assistant","Dunkeld, Perth and Kinross",6,9,"1","Passion Fruit and Chocolate Tart","Cocoa Carousel","OUT"
+"626","Nadiya","Hussain",30,"Full-time mother","Leeds / Luton",6,9,"4","Peanut Salted Caramel and Chocolate Tart","Peacock in Nan's Door","STAR BAKER"
+"627","Alvin","Magallanes",37,"Nurse","Bracknell, Berkshire",6,9,NA,NA,NA,NA
+"628","Dorret","Conway",53,"Accountant","Penwortham, Lancashire",6,9,NA,NA,NA,NA
+"629","Marie","Campbell",66,"Retired","Auchterarder, Perthshire",6,9,NA,NA,NA,NA
+"630","Mat","Riley",37,"Fire fighter","London",6,9,NA,NA,NA,NA
+"631","Paul","Jagger",49,"Prison governor","Swansea, Wales",6,9,NA,NA,NA,NA
+"632","Sandy","Docherty",49,"Child welfare officer","Yeadon, West Yorkshire",6,9,NA,NA,NA,NA
+"633","Stu","Henshall",35,"Professional musician","Guildford, Surrey",6,9,NA,NA,NA,NA
+"634","Ugnė","Bubnaityte",32,"PA and administrator","Woodford, London / Vilkaviškis, Lithuania",6,9,NA,NA,NA,NA
+"635","Ian","Cumming",41,"Travel photographer","Great Wilbraham, Cambridgeshire",6,10,"2","Elderflower and Lemon & Spiced Buns","Colossal Curvy Carrot Cake","Runner-up"
+"636","Tamal","Ray",29,"Trainee anaesthetist","Manchester",6,10,"3","Cinnamon and Apple & Toffee and Marmalade Iced Buns","Sticky Toffee Pudding Cake","Runner-up"
+"637","Nadiya","Hussain",30,"Full-time mother","Leeds / Luton",6,10,"1","Cardamom and Almond Buns & Nutmeg and Sour Cherry Fingers","My Big Fat British Wedding Cake","WINNER"
+"638","Alvin","Magallanes",37,"Nurse","Bracknell, Berkshire",6,10,NA,NA,NA,NA
+"639","Dorret","Conway",53,"Accountant","Penwortham, Lancashire",6,10,NA,NA,NA,NA
+"640","Flora","Shedden",19,"Art gallery assistant","Dunkeld, Perth and Kinross",6,10,NA,NA,NA,NA
+"641","Marie","Campbell",66,"Retired","Auchterarder, Perthshire",6,10,NA,NA,NA,NA
+"642","Mat","Riley",37,"Fire fighter","London",6,10,NA,NA,NA,NA
+"643","Paul","Jagger",49,"Prison governor","Swansea, Wales",6,10,NA,NA,NA,NA
+"644","Sandy","Docherty",49,"Child welfare officer","Yeadon, West Yorkshire",6,10,NA,NA,NA,NA
+"645","Stu","Henshall",35,"Professional musician","Guildford, Surrey",6,10,NA,NA,NA,NA
+"646","Ugnė","Bubnaityte",32,"PA and administrator","Woodford, London / Vilkaviškis, Lithuania",6,10,NA,NA,NA,NA
+"647","Andrew","Smyth",25,"Aerospace engineer","Derby / Holywood, County Down",7,1,"12","Lemon and Rosemary Drizzle Cake","'Ultimate Indulgence' Mirror Glaze Cake","IN"
+"648","Benjamina","Ebuehi",23,"Teaching assistant","South London",7,1,"6","Pistachio, Cardamom and Lemon Drizzle Cake","White Chocolate Mirror Glaze with Salted Praline Buttercream","IN"
+"649","Candice","Brown",31,"PE teacher","Barton-Le-Clay, Bedfordshire",7,1,"5","Raspberry and Rhubarb Drizzle Custard Bundt Cake","Mirror Mirror On The Wall, Who Is The Shiniest Cake Of Them All?","IN"
+"650","Kate","Barmby",37,"Nurse","Brooke, Norfolk",7,1,"4","Berry Best Apple and Bramble Drizzle Cake","One Swallow Does Not Make A Summer Cake","IN"
+"651","Louise","Williams",46,"Hairdresser","Cardiff",7,1,"9","Orange Liqueur and Lemonade Drizzle Cake","White Chocolate Trifle Mirror Glaze Cake","IN"
+"652","Michael","Georgiou",20,"Student","Durham",7,1,"3","Lime, Ginger and Honey Drizzle Cake","Matcha Tea Chocolate Mirror Glaze","IN"
+"653","Rav","Bansal",28,"Student support","Erith",7,1,"8","Ginger Spice Yuzu Drizzle Cake","Colombian Mocha Mirror Glaze Cake","IN"
+"654","Selasi","Gbormittah",30,"Client service associate","London",7,1,"1","Citrus and Spice Drizzle Cake","Raspberry, Sloe and White Chocolate Mirror Glaze Cake","IN"
+"655","Tom","Gilliford",26,"Project engagement manager","Rochdale",7,1,"2","G&T Drizzle Cake","Black Forest Broken Mirror","IN"
+"656","Val","Stones",66,"Semi-retired, Substitute teacher","Yeovil",7,1,"10","Mum's Orange and Lemon Drizzle","Chocolate Sponge with Four Fruit Frosting","IN"
+"657","Lee","Banfield",67,"Pastor","Bolton",7,1,"11","St. Clements Orange and Lemon Drizzle Cake","Strawberry Surprise Mirror Cake","OUT"
+"658","Jane","Beedle",61,"Garden designer","Beckenham",7,1,"7","Lemon and Poppy Seed Drizzle Cake","Chocolate Orange Mirror Cake","STAR BAKER"
+"659","Andrew","Smyth",25,"Aerospace engineer","Derby / Holywood, County Down",7,2,"4","Beehive Biscuits","Punting in Cambridge","IN"
+"660","Benjamina","Ebuehi",23,"Teaching assistant","South London",7,2,"3","Bouquet Biscuits","New York, New York","IN"
+"661","Jane","Beedle",61,"Garden designer","Beckenham",7,2,"2","Flower Pot Iced Biscuits","Hastings Old Town Fishing Net Shops and Boat","IN"
+"662","Kate","Barmby",37,"Nurse","Brooke, Norfolk",7,2,"1","""A Biscuit for the Broads""","""I Promise I will do my best""","IN"
+"663","Michael","Georgiou",20,"Student","Durham",7,2,"9","Malt, Chocolate and Orange Iced ""Beer"" Biscuits","Trip to See Santa in Lapland","IN"
+"664","Rav","Bansal",28,"Student support","Erith",7,2,"6","Union Jack Bunting Biscuits","Gingerbread Christmas Fairground","IN"
+"665","Selasi","Gbormittah",30,"Client service associate","London",7,2,"11","""Wheelie Hot Iced Biscuits""","Stained Glass Window Gingerbread Church","IN"
+"666","Tom","Gilliford",26,"Project engagement manager","Rochdale",7,2,"7","Chai Frappelatteccino Biscuits","Tom and Pod's Near Death Experience","IN"
+"667","Val","Stones",66,"Semi-retired, Substitute teacher","Yeovil",7,2,"5","Sunday Treat Iced Ice Cream Cone Biscuits","From Holland to New York via Yorkshire","IN"
+"668","Louise","Williams",46,"Hairdresser","Cardiff",7,2,"10","Baa Bara Brith Biscuits","Gingerbread Wedding","OUT"
+"669","Candice","Brown",31,"PE teacher","Barton-Le-Clay, Bedfordshire",7,2,"8","Salted Caramel, Chocolate Iced Shiny Hearts","Gingerbread Pub with Sticky Ginger Carpet","STAR BAKER"
+"670","Lee","Banfield",67,"Pastor","Bolton",7,2,NA,NA,NA,NA
+"671","Andrew","Smyth",25,"Aerospace engineer","Derby / Holywood, County Down",7,3,"2","Chocolate Barmbrack Bread","Braided Harvest Bread Basket","IN"
+"672","Benjamina","Ebuehi",23,"Teaching assistant","South London",7,3,"6","Chocolate, Tahini and Almond Babka","Braided Bread Heart","IN"
+"673","Candice","Brown",31,"PE teacher","Barton-Le-Clay, Bedfordshire",7,3,"3","Chocolate, Salted Caramel & Pecan Brittle Brioche Loaf","Italian Light and Dark Rye Twist","IN"
+"674","Jane","Beedle",61,"Garden designer","Beckenham",7,3,"9","Chocolate and Cranberry Couronne","Chorizo and Chilli Flower with Parmesan and Pesto Centre","IN"
+"675","Kate","Barmby",37,"Nurse","Brooke, Norfolk",7,3,"8","Cobbled Loaf","The Corn Maiden","IN"
+"676","Rav","Bansal",28,"Student support","Erith",7,3,"10","Chocolate, Cardamom and Hazelnut Loaf","Three Tier Diwali Bread Centrepiece","IN"
+"677","Selasi","Gbormittah",30,"Client service associate","London",7,3,"5","Chocolate, Orange and Cinnamon Bread","Bedouin Escape Tear and Share Bread","IN"
+"678","Val","Stones",66,"Semi-retired, Substitute teacher","Yeovil",7,3,"1","Double Chocolate Cinnamon Twist Loaf","""And They All Went Into The Ark To Get Out Of The Rain""","IN"
+"679","Michael","Georgiou",20,"Student","Durham",7,3,"7","Chocolate and Chilli Swirl Plait","Cypriot Dove and Olive Branch Plaited Loaf with Houmous","OUT"
+"680","Tom","Gilliford",26,"Project engagement manager","Rochdale",7,3,"4","Chocolate Orange and Chilli Swirl Bread","Jörmungandr and Mjölnir","STAR BAKER"
+"681","Lee","Banfield",67,"Pastor","Bolton",7,3,NA,NA,NA,NA
+"682","Louise","Williams",46,"Hairdresser","Cardiff",7,3,NA,NA,NA,NA
+"683","Andrew","Smyth",25,"Aerospace engineer","Derby / Holywood, County Down",7,4,"4","Yorkshire 'Tapas' Puddings","Churros Window Box","IN"
+"684","Candice","Brown",31,"PE teacher","Barton-Le-Clay, Bedfordshire",7,4,"2","Yorkshire Wellingtons","Two-Way Peanut Butter Churros","IN"
+"685","Jane","Beedle",61,"Garden designer","Beckenham",7,4,"3","Meat and Two Veg Yorkshires","Pistachio and White Chocolate Churros","IN"
+"686","Rav","Bansal",28,"Student support","Erith",7,4,"9","Thai Tofu Panang Yorkshires","Three Dip Matcha Pistachio Churros","IN"
+"687","Selasi","Gbormittah",30,"Client service associate","London",7,4,"8","Perfect Sunday Roast Accompaniment","Lemon and Anise Churros","IN"
+"688","Tom","Gilliford",26,"Project engagement manager","Rochdale",7,4,"5","West Yorkshire Fusion Puddings","Fennel Churros Snake In The Grass","IN"
+"689","Val","Stones",66,"Semi-retired, Substitute teacher","Yeovil",7,4,"6","Mum's Chilli Yorkshire Puddings","Orange Chocolate Churros","IN"
+"690","Kate","Barmby",37,"Nurse","Brooke, Norfolk",7,4,"7","Christmas Dinner Compromise","Hot Cross Bunny Churros","OUT"
+"691","Benjamina","Ebuehi",23,"Teaching assistant","South London",7,4,"1","Red Onion Chutney, Brie and Bacon Yorkshire Puddings","Tropical Churros","STAR BAKER"
+"692","Lee","Banfield",67,"Pastor","Bolton",7,4,NA,NA,NA,NA
+"693","Louise","Williams",46,"Hairdresser","Cardiff",7,4,NA,NA,NA,NA
+"694","Michael","Georgiou",20,"Student","Durham",7,4,NA,NA,NA,NA
+"695","Andrew","Smyth",25,"Aerospace engineer","Derby / Holywood, County Down",7,5,"6","Mum and Dad's Breakfast Pastries","Spicy Chorizo Squash Parcels and Baklava Bites","IN"
+"696","Benjamina","Ebuehi",23,"Teaching assistant","South London",7,5,"5","'Good Morning America' Swirls and Peanut Butter and Banana Pinwheels","Plantain and Spinach Samosas and Chai Pear Cups","IN"
+"697","Jane","Beedle",61,"Garden designer","Beckenham",7,5,"1","Orange Pain au Raisins, Raspberry, Chocolate and Almond Danish","Roquefort, Fig and Walnut Parcels and Cherry and Chocolate Cones","IN"
+"698","Rav","Bansal",28,"Student support","Erith",7,5,"8","Cinnamon Swirls and Pecan, Walnut and Maple Plaits","Chinese Style Prawn Filo Tartlets and Spiced White Chocolate and Hazelnut Samosas","IN"
+"699","Selasi","Gbormittah",30,"Client service associate","London",7,5,"3","Rhubarb, Mango and Ginger Plait, and Pineapple and Coconut Pinwheels","Parma Ham, Asparagus and Cheese Filo Cigars and Coffee Cream Filo Cups","IN"
+"700","Tom","Gilliford",26,"Project engagement manager","Rochdale",7,5,"4","Mega Breakfast Bonanzas; Granola Spirals and Wheat Foldovers","Yin and Yang Amuse-bouche","IN"
+"701","Val","Stones",66,"Semi-retired, Substitute teacher","Yeovil",7,5,"7","Pecan and Maple Syrup Pinwheels and Apple, Sultana and Cinnamon Swirls","Caramelised Red Onion, Goats Cheese Tartlets and Mincemeat and Apple Spiced Parcels","OUT"
+"702","Candice","Brown",31,"PE teacher","Barton-Le-Clay, Bedfordshire",7,5,"2","Danish Pastry Croque Monsieur Kites and Cinnamon Apple, Vanilla Crème Rose Danish","Sausage, Black Pudding and Apple Rounds and Banoffee Whiskey Cups","STAR BAKER"
+"703","Kate","Barmby",37,"Nurse","Brooke, Norfolk",7,5,NA,NA,NA,NA
+"704","Lee","Banfield",67,"Pastor","Bolton",7,5,NA,NA,NA,NA
+"705","Louise","Williams",46,"Hairdresser","Cardiff",7,5,NA,NA,NA,NA
+"706","Michael","Georgiou",20,"Student","Durham",7,5,NA,NA,NA,NA
+"707","Andrew","Smyth",25,"Aerospace engineer","Derby / Holywood, County Down",7,6,"6","Tangy Lime and Ginger Meringue Pie","Spring Elderflower Trio","IN"
+"708","Benjamina","Ebuehi",23,"Teaching assistant","South London",7,6,"2","Grapefruit and Ginger Meringue Pie","Floral Tea Cake","IN"
+"709","Candice","Brown",31,"PE teacher","Barton-Le-Clay, Bedfordshire",7,6,"5","Lime, Coconut and Lemongrass Sugar Meringue Pie","Four Seasons Cake","IN"
+"710","Jane","Beedle",61,"Garden designer","Beckenham",7,6,"4","Lime and Coconut Meringue Pie","Three Tier Orange Cake with a Floral Chocolate Collar","IN"
+"711","Selasi","Gbormittah",30,"Client service associate","London",7,6,"7","Grapefruit, Orange and Mint Meringue Pie","Three Tiered Ombré Floral Cake","IN"
+"712","Rav","Bansal",28,"Student support","Erith",7,6,"3","Mandarin Margarita Meringue Pie","Blossom Cake","OUT"
+"713","Tom","Gilliford",26,"Project engagement manager","Rochdale",7,6,"1","Blood Orange Halloween Pumpkin Pie","Floral Tea Cake","STAR BAKER"
+"714","Kate","Barmby",37,"Nurse","Brooke, Norfolk",7,6,NA,NA,NA,NA
+"715","Lee","Banfield",67,"Pastor","Bolton",7,6,NA,NA,NA,NA
+"716","Louise","Williams",46,"Hairdresser","Cardiff",7,6,NA,NA,NA,NA
+"717","Michael","Georgiou",20,"Student","Durham",7,6,NA,NA,NA,NA
+"718","Val","Stones",66,"Semi-retired, Substitute teacher","Yeovil",7,6,NA,NA,NA,NA
+"719","Benjamina","Ebuehi",23,"Teaching assistant","South London",7,7,"3","Piña Colada Roulade","Apple Crumble Mousse Cake and Chocolate Coffee Mousse Cake","IN"
+"720","Candice","Brown",31,"PE teacher","Barton-Le-Clay, Bedfordshire",7,7,"2","Crowd Pleaser Roulade","Blackberry and Raspberry Bubbles and After Dinner Mousse","IN"
+"721","Jane","Beedle",61,"Garden designer","Beckenham",7,7,"4","Chocolate and Hazelnut Roulade","Chocolate, Coffee, and Vanilla Joconde Cakes and Blackcurrant and Vanilla Ombre Mousses","IN"
+"722","Selasi","Gbormittah",30,"Client service associate","London",7,7,"6","Summer Picnic Roulade","Lemon, Strawberry and Passionfruit and Chocolate and Mint Mini Mousse Cakes","IN"
+"723","Tom","Gilliford",26,"Project engagement manager","Rochdale",7,7,"5","Millionaire's Roulade","Hipster Picnic","OUT"
+"724","Andrew","Smyth",25,"Aerospace engineer","Derby / Holywood, County Down",7,7,"1","Tropical Holiday Roulade","Childhood Ice Cream Mousse Cakes","STAR BAKER"
+"725","Kate","Barmby",37,"Nurse","Brooke, Norfolk",7,7,NA,NA,NA,NA
+"726","Lee","Banfield",67,"Pastor","Bolton",7,7,NA,NA,NA,NA
+"727","Louise","Williams",46,"Hairdresser","Cardiff",7,7,NA,NA,NA,NA
+"728","Michael","Georgiou",20,"Student","Durham",7,7,NA,NA,NA,NA
+"729","Rav","Bansal",28,"Student support","Erith",7,7,NA,NA,NA,NA
+"730","Val","Stones",66,"Semi-retired, Substitute teacher","Yeovil",7,7,NA,NA,NA,NA
+"731","Andrew","Smyth",25,"Aerospace engineer","Derby / Holywood, County Down",7,8,"2","Da Vinci Inspired Geared Pies","Jousting Knights Marchpane","IN"
+"732","Jane","Beedle",61,"Garden designer","Beckenham",7,8,"5","Tudor Rose Pies","Swans","IN"
+"733","Selasi","Gbormittah",30,"Client service associate","London",7,8,"3","Bouquet of Flowers","Fruity Tudor Marchpane","IN"
+"734","Benjamina","Ebuehi",23,"Teaching assistant","South London",7,8,"4","Mexican Adventure","Tudor Garden","OUT"
+"735","Candice","Brown",31,"PE teacher","Barton-Le-Clay, Bedfordshire",7,8,"1","Cheesy Cheeky Fish Pies","Peacock","STAR BAKER"
+"736","Kate","Barmby",37,"Nurse","Brooke, Norfolk",7,8,NA,NA,NA,NA
+"737","Lee","Banfield",67,"Pastor","Bolton",7,8,NA,NA,NA,NA
+"738","Louise","Williams",46,"Hairdresser","Cardiff",7,8,NA,NA,NA,NA
+"739","Michael","Georgiou",20,"Student","Durham",7,8,NA,NA,NA,NA
+"740","Rav","Bansal",28,"Student support","Erith",7,8,NA,NA,NA,NA
+"741","Tom","Gilliford",26,"Project engagement manager","Rochdale",7,8,NA,NA,NA,NA
+"742","Val","Stones",66,"Semi-retired, Substitute teacher","Yeovil",7,8,NA,NA,NA,NA
+"743","Candice","Brown",31,"PE teacher","Barton-Le-Clay, Bedfordshire",7,9,"3","Red Onion, Cambozola and Walnut Palmiers and Mushroom, Streaky Bacon, and Parmesan Palmiers","Chocolate Praline Fondant Fancies and Cherry Bakewell Fondant Fancies","IN"
+"744","Jane","Beedle",61,"Garden designer","Beckenham",7,9,"1","Pesto and Sundried Tomato Palmiers and Goats Cheese, Olive and Parma Ham Palmiers","Pistachio and Raspberry Fondant Fancies and Lemon Curd Surprise Fondant Fancies","IN"
+"745","Selasi","Gbormittah",30,"Client service associate","London",7,9,"4","Sundried Tomato, Onion, Peppers and Parmesan Palmiers and Salmon, Spinach and Mushroom Palmiers","Lime and Ginger Fondant Fancies and Pink Velvet and Raspberry Prosecco Fondant Fancies","OUT"
+"746","Andrew","Smyth",25,"Aerospace engineer","Derby / Holywood, County Down",7,9,"2","Cheesy Elephant Ears and Herby Treble Clefs","Philharmonic Fondants","STAR BAKER"
+"747","Benjamina","Ebuehi",23,"Teaching assistant","South London",7,9,NA,NA,NA,NA
+"748","Kate","Barmby",37,"Nurse","Brooke, Norfolk",7,9,NA,NA,NA,NA
+"749","Lee","Banfield",67,"Pastor","Bolton",7,9,NA,NA,NA,NA
+"750","Louise","Williams",46,"Hairdresser","Cardiff",7,9,NA,NA,NA,NA
+"751","Michael","Georgiou",20,"Student","Durham",7,9,NA,NA,NA,NA
+"752","Rav","Bansal",28,"Student support","Erith",7,9,NA,NA,NA,NA
+"753","Tom","Gilliford",26,"Project engagement manager","Rochdale",7,9,NA,NA,NA,NA
+"754","Val","Stones",66,"Semi-retired, Substitute teacher","Yeovil",7,9,NA,NA,NA,NA
+"755","Andrew","Smyth",25,"Aerospace engineer","Derby / Holywood, County Down",7,10,"1","Crunchy Caramel Cassis Crown","Family and Friends' Favourites Picnic","Runner-up"
+"756","Jane","Beedle",61,"Garden designer","Beckenham",7,10,"3","Red, White and Blue Meringue Crown","Family Favourites Feast","Runner-up"
+"757","Candice","Brown",31,"PE teacher","Barton-Le-Clay, Bedfordshire",7,10,"2","Queen Victoria's Mango and Strawberry Crown","Picnic for Pearly Kings and Queens","WINNER"
+"758","Benjamina","Ebuehi",23,"Teaching assistant","South London",7,10,NA,NA,NA,NA
+"759","Kate","Barmby",37,"Nurse","Brooke, Norfolk",7,10,NA,NA,NA,NA
+"760","Lee","Banfield",67,"Pastor","Bolton",7,10,NA,NA,NA,NA
+"761","Louise","Williams",46,"Hairdresser","Cardiff",7,10,NA,NA,NA,NA
+"762","Michael","Georgiou",20,"Student","Durham",7,10,NA,NA,NA,NA
+"763","Rav","Bansal",28,"Student support","Erith",7,10,NA,NA,NA,NA
+"764","Selasi","Gbormittah",30,"Client service associate","London",7,10,NA,NA,NA,NA
+"765","Tom","Gilliford",26,"Project engagement manager","Rochdale",7,10,NA,NA,NA,NA
+"766","Val","Stones",66,"Semi-retired, Substitute teacher","Yeovil",7,10,NA,NA,NA,NA
+"767","Chris","Geiger",50,"Software developer","Bristol",8,1,"12","Tropical Fresh Fruit Cake","'Raised Pork Pie and Egg Surprise' Cake","IN"
+"768","Flo","Atkins",71,"Retired","Merseyside",8,1,"9","Citrus Layer Cake","'One in a Melon' Cake","IN"
+"769","James","Hillery",46,"Banker","Brentwood, Essex",8,1,"2","Orange, Rhubarb & Ginger Crumble Cake","'Mock-accino and Croissant' Cake","IN"
+"770","Julia","Chernogorova",21,"Aviation Broker","Crawley, West Sussex",8,1,"3","Courgette and Lemon Cake","'Russian Doll' Cake","IN"
+"771","Kate","Lyon",29,"Health and safety inspector","Merseyside",8,1,"1","Moroccan Strawberry and Rose Cake","'Chocolate Terrarium' Cake","IN"
+"772","Liam","Charles",19,"Student","North London",8,1,"8","Apple and Almond Crumble Maple Loaf","'Stackin' Sunday' Cake","IN"
+"773","Sophie","Faldo",33,"Former army officer and trainee stuntwoman","West Molesey, Surrey",8,1,"5","Pineapple and Coconut Sandwich Cake","'Champagne Bottle and Bucket' Cake","IN"
+"774","Stacey","Hart",42,"Former school teacher","Radlett, Hertfordshire",8,1,"11","Granny Smith Apple and Walnut Cake","'Black Evening Clutch Bag' Cake","IN"
+"775","Tom","Hetherington",29,"Architect","Edinburgh",8,1,"7","Gilded Pear and Cardamom Cake","'Stack of Books' Cake","IN"
+"776","Yan","Tsou",46,"Laboratory research scientist","North London",8,1,"4","Windfall Apple Crumble Cake","'Banana-ramen' Cake","IN"
+"777","Peter","Abatan",52,"IT programme manager","Southend, Essex",8,1,"10","Coconut Cake","'Bread on a Breadboard' Cake","OUT"
+"778","Steven","Carter-Bailey",34,"Marketer","Watford, Hertfordshire",8,1,"6","Bonfire Night Cake","'A Baker's Lunch' Cake","STAR BAKER"
+"779","Flo","Atkins",71,"Retired","Merseyside",8,2,"10","Gin Jam Butties","'Pick My Bones' Game","IN"
+"780","James","Hillery",46,"Banker","Brentwood, Essex",8,2,"3","Rhubarb and Custard Whirls","'Coppit' Game","IN"
+"781","Julia","Chernogorova",21,"Aviation Broker","Crawley, West Sussex",8,2,"4","Middle Eastern Delight Sandwich Biscuits","'A British Baking' Game","IN"
+"782","Kate","Lyon",29,"Health and safety inspector","Merseyside",8,2,"8","Coconut Seashells for a Titanic Afternoon Tea","'Jungle' Game","IN"
+"783","Liam","Charles",19,"Student","North London",8,2,"7","Coffee Malted Pecan Shorties","'Classroom Classics' Game","IN"
+"784","Sophie","Faldo",33,"Former army officer and trainee stuntwoman","West Molesey, Surrey",8,2,"2","Lemon Limoncino Sandwich Biscuits","'Snakes and Ladders' Game","IN"
+"785","Stacey","Hart",42,"Former school teacher","Radlett, Hertfordshire",8,2,"9","Sparkly Chocolate and Marshmallow Fluff Cookies","'Get to School' Game","IN"
+"786","Tom","Hetherington",29,"Architect","Edinburgh",8,2,"5","Coffee and Amaretto Kisses","'Drain Pipes and Ladders' Game","IN"
+"787","Yan","Tsou",46,"Laboratory research scientist","North London",8,2,"1","'Mrs. Marian's PB 'n' B' Biscuits","'Adventures in Bakeland' Game","IN"
+"788","Chris","Geiger",50,"Software developer","Bristol",8,2,"11","Chocolate Chia Seed Biscuits with Whisky Caramel Filling","'The Great British Sail Off' Game","OUT"
+"789","Steven","Carter-Bailey",34,"Marketer","Watford, Hertfordshire",8,2,"6","Amarpressi Biscuits","'Check Bake' Game","STAR BAKER"
+"790","Peter","Abatan",52,"IT programme manager","Southend, Essex",8,2,NA,NA,NA,NA
+"791","James","Hillery",46,"Banker","Brentwood, Essex",8,3,"9","Nordic Teacakes","'Owl in the Woods' Bread Sculpture","IN"
+"792","Kate","Lyon",29,"Health and safety inspector","Merseyside",8,3,"10","Blueberry Buns","'Kraken' Bread Sculpture","IN"
+"793","Liam","Charles",19,"Student","North London",8,3,"5","Jamaican Spiced Teacakes","'Kneadapolitan' Bread Sculpture","IN"
+"794","Sophie","Faldo",33,"Former army officer and trainee stuntwoman","West Molesey, Surrey",8,3,"6","Tagine Teacakes","'Picnic Basket' Bread Sculpture","IN"
+"795","Stacey","Hart",42,"Former school teacher","Radlett, Hertfordshire",8,3,"1","Cranberry and Cinnamon Teacakes","'Ascot Hat' Bread Sculpture","IN"
+"796","Steven","Carter-Bailey",34,"Marketer","Watford, Hertfordshire",8,3,"3","Madras Cocktail Teacakes","'The Bag I Knead' Bread Sculpture","IN"
+"797","Tom","Hetherington",29,"Architect","Edinburgh",8,3,"4","Orange and Cranberry Teacakes","'Pink & Yellow Rose Centrepiece' Bread Sculpture","IN"
+"798","Yan","Tsou",46,"Laboratory research scientist","North London",8,3,"8","'Mrs P's' Masala Chai Spiced Teacakes","'Basil the Vegetarian Dragon with his Pumpkin Hoard' Bread Sculpture","IN"
+"799","Flo","Atkins",71,"Retired","Merseyside",8,3,"7","Cinnamon and Orange Teacakes","'Davy Jones' Locker' Bread Sculpture","OUT"
+"800","Julia","Chernogorova",21,"Aviation Broker","Crawley, West Sussex",8,3,"2","Earl Grey Dried Fruit Teacakes","'The Snail Under a Mushroom' Bread Sculpture","STAR BAKER"
+"801","Chris","Geiger",50,"Software developer","Bristol",8,3,NA,NA,NA,NA
+"802","Peter","Abatan",52,"IT programme manager","Southend, Essex",8,3,NA,NA,NA,NA
+"803","James","Hillery",46,"Banker","Brentwood, Essex",8,4,"2","'Windy City' Millionaire Shortbreads","Nutty Caramel Cake","IN"
+"804","Julia","Chernogorova",21,"Aviation Broker","Crawley, West Sussex",8,4,"9","Pecan Salted Caramel Millionaire Shortbreads","Poppy Seed Caramel Cake","IN"
+"805","Liam","Charles",19,"Student","North London",8,4,"3","Salted Peanut Butter Millionaire Shortbreads","White Layered Ginger Caramel Cake","IN"
+"806","Sophie","Faldo",33,"Former army officer and trainee stuntwoman","West Molesey, Surrey",8,4,"4","Jaffa Millionaire Shortbreads","Bird's Nest Caramel Cake","IN"
+"807","Stacey","Hart",42,"Former school teacher","Radlett, Hertfordshire",8,4,"1","Rum Salted Caramel Millionaire Shortbreads","Chocolate and Coffee Caramel Cake","IN"
+"808","Steven","Carter-Bailey",34,"Marketer","Watford, Hertfordshire",8,4,"7","Orange Macadamia Nut Millionaire Shortbreads","Caramel Crown Cake","IN"
+"809","Yan","Tsou",46,"Laboratory research scientist","North London",8,4,"8","'Lil' Red's Ginger and Nuts' Millionaire Shortbreads","Animals of the Rainforest Caramel Cake","IN"
+"810","Tom","Hetherington",29,"Architect","Edinburgh",8,4,"5","Stem Ginger Caramel Shortbreads","Hummingbird Cake","OUT"
+"811","Kate","Lyon",29,"Health and safety inspector","Merseyside",8,4,"6","Salted Bay Caramel Millionaire Shortbreads","Sticky Toffee Apple Caramel Cake","STAR BAKER"
+"812","Chris","Geiger",50,"Software developer","Bristol",8,4,NA,NA,NA,NA
+"813","Flo","Atkins",71,"Retired","Merseyside",8,4,NA,NA,NA,NA
+"814","Peter","Abatan",52,"IT programme manager","Southend, Essex",8,4,NA,NA,NA,NA
+"815","Julia","Chernogorova",21,"Aviation Broker","Crawley, West Sussex",8,5,"3","Orange & Treacle Steamed School Pudding","'Opulent Ornament' Trifle Terrine","IN"
+"816","Kate","Lyon",29,"Health and safety inspector","Merseyside",8,5,"8","'Mr Darcy's Steamy Lake Scene' Steamed School Pudding","'My Great Great Nan's' Raspberry Trifle Terrine","IN"
+"817","Liam","Charles",19,"Student","North London",8,5,"2","Cherries & Lemons that are 'Baked Well'","'Cheers Lads' Trifle Terrine","IN"
+"818","Stacey","Hart",42,"Former school teacher","Radlett, Hertfordshire",8,5,"4","Bakewell Tart Steamed School Pudding","Tropical Trifle Terrine","IN"
+"819","Steven","Carter-Bailey",34,"Marketer","Watford, Hertfordshire",8,5,"5","Lemon & Blackcurrant Drizzle Steamed School Pudding","'From Across the Jelly Pond' Trifle Terrine","IN"
+"820","Yan","Tsou",46,"Laboratory research scientist","North London",8,5,"6","Mango Fruit Hat Steamed School Pudding","'Heart of a Hero' Trifle Terrine","IN"
+"821","James","Hillery",46,"Banker","Brentwood, Essex",8,5,"7","Orange and Ginger Steamed School Pudding","'The Missed Silver Jubilee' Trifle Terrine","OUT"
+"822","Sophie","Faldo",33,"Former army officer and trainee stuntwoman","West Molesey, Surrey",8,5,"1","Ginger, Fig and Honey Steamed School Pudding","Raspberry, Yuzu & White Chocolate Bûche Trifle Terrine","STAR BAKER"
+"823","Chris","Geiger",50,"Software developer","Bristol",8,5,NA,NA,NA,NA
+"824","Flo","Atkins",71,"Retired","Merseyside",8,5,NA,NA,NA,NA
+"825","Peter","Abatan",52,"IT programme manager","Southend, Essex",8,5,NA,NA,NA,NA
+"826","Tom","Hetherington",29,"Architect","Edinburgh",8,5,NA,NA,NA,NA
+"827","Kate","Lyon",29,"Health and safety inspector","Merseyside",8,6,"5","'Vegetarian Pie Faces' Decorative Pies","Potato Curry Pie with Mango & Chilli Glaze","IN"
+"828","Sophie","Faldo",33,"Former army officer and trainee stuntwoman","West Molesey, Surrey",8,6,"2","'The Four Seasons' Decorative Pies","Game Pie with Glazed Forest Fruits","IN"
+"829","Stacey","Hart",42,"Former school teacher","Radlett, Hertfordshire",8,6,"6","'Love Theme' Decorative Pies","Indian Hand Raised Pie with Mango","IN"
+"830","Steven","Carter-Bailey",34,"Marketer","Watford, Hertfordshire",8,6,"3","'Fleetwood Mac' Decorative Pies","Christmas Pie","IN"
+"831","Yan","Tsou",46,"Laboratory research scientist","North London",8,6,"1","'πr2' Decorative Pies","Chequerboard Pie","IN"
+"832","Julia","Chernogorova",21,"Aviation Broker","Crawley, West Sussex",8,6,"7","'Pies from the Tree' Decorative Pies","'Special Occasion' Pie","OUT"
+"833","Liam","Charles",19,"Student","North London",8,6,"4","'Standard FC' Decorative Pies","'Nan's Sunday Dinner' Pie","STAR BAKER"
+"834","Chris","Geiger",50,"Software developer","Bristol",8,6,NA,NA,NA,NA
+"835","Flo","Atkins",71,"Retired","Merseyside",8,6,NA,NA,NA,NA
+"836","James","Hillery",46,"Banker","Brentwood, Essex",8,6,NA,NA,NA,NA
+"837","Peter","Abatan",52,"IT programme manager","Southend, Essex",8,6,NA,NA,NA,NA
+"838","Tom","Hetherington",29,"Architect","Edinburgh",8,6,NA,NA,NA,NA
+"839","Kate","Lyon",29,"Health and safety inspector","Merseyside",8,7,"6","'Happy Hour' Cocktail Cannoli","'Flavour Fusion' Sfogliatelle","IN"
+"840","Liam","Charles",19,"Student","North London",8,7,"2","'Just Doing Me' Cannoli","'Morning Delivery' Sfogliatelle","IN"
+"841","Sophie","Faldo",33,"Former army officer and trainee stuntwoman","West Molesey, Surrey",8,7,"3","'Classics with a Twist' Cannoli","'Classics' Sfogliatelle","IN"
+"842","Stacey","Hart",42,"Former school teacher","Radlett, Hertfordshire",8,7,"4","My All Time Favourite Desserts","Pastry Surprise","IN"
+"843","Yan","Tsou",46,"Laboratory research scientist","North London",8,7,"5","Cannoli Cocktails","Canadian-Style Sfogliatelle","OUT"
+"844","Steven","Carter-Bailey",34,"Marketer","Watford, Hertfordshire",8,7,"1","Italian Style Cannoli","'Sicilian-style' Sfogliatelle","STAR BAKER"
+"845","Chris","Geiger",50,"Software developer","Bristol",8,7,NA,NA,NA,NA
+"846","Flo","Atkins",71,"Retired","Merseyside",8,7,NA,NA,NA,NA
+"847","James","Hillery",46,"Banker","Brentwood, Essex",8,7,NA,NA,NA,NA
+"848","Julia","Chernogorova",21,"Aviation Broker","Crawley, West Sussex",8,7,NA,NA,NA,NA
+"849","Peter","Abatan",52,"IT programme manager","Southend, Essex",8,7,NA,NA,NA,NA
+"850","Tom","Hetherington",29,"Architect","Edinburgh",8,7,NA,NA,NA,NA
+"851","Kate","Lyon",29,"Health and safety inspector","Merseyside",8,8,"2","Burrito Bedfordshire Clangers","'Liver Building Turret' Savoy Cake","IN"
+"852","Sophie","Faldo",33,"Former army officer and trainee stuntwoman","West Molesey, Surrey",8,8,"4","Char Siu & Banana Praline Bedfordshire Clangers","Citrus with Green Apple Croquembouche Savoy Cake","IN"
+"853","Steven","Carter-Bailey",34,"Marketer","Watford, Hertfordshire",8,8,"1","'Mediterranean Medley' Bedfordshire Clangers","Chestnut Rum Savoy Cake","IN"
+"854","Liam","Charles",19,"Student","North London",8,8,"5","'Take Out' Bedfordshire Clangers","'Fort Wizardore' Savoy Cake","OUT"
+"855","Stacey","Hart",42,"Former school teacher","Radlett, Hertfordshire",8,8,"3","Camembert & Onion and Apple & Blueberry Bedfordshire Clangers","'Bright' Lemon & Orange Savoy Cake","STAR BAKER"
+"856","Chris","Geiger",50,"Software developer","Bristol",8,8,NA,NA,NA,NA
+"857","Flo","Atkins",71,"Retired","Merseyside",8,8,NA,NA,NA,NA
+"858","James","Hillery",46,"Banker","Brentwood, Essex",8,8,NA,NA,NA,NA
+"859","Julia","Chernogorova",21,"Aviation Broker","Crawley, West Sussex",8,8,NA,NA,NA,NA
+"860","Peter","Abatan",52,"IT programme manager","Southend, Essex",8,8,NA,NA,NA,NA
+"861","Tom","Hetherington",29,"Architect","Edinburgh",8,8,NA,NA,NA,NA
+"862","Yan","Tsou",46,"Laboratory research scientist","North London",8,8,NA,NA,NA,NA
+"863","Kate","Lyon",29,"Health and safety inspector","Merseyside",8,9,"4","Bellini and Valencian Orange Choux Buns","'Rainbow' Meringue Centrepiece","IN"
+"864","Steven","Carter-Bailey",34,"Marketer","Watford, Hertfordshire",8,9,"3","Key Lime Cheesecake and Bakewell Tart Choux Buns","'Some Air Over the Rainbow' Meringue Centrepiece","IN"
+"865","Stacey","Hart",42,"Former school teacher","Radlett, Hertfordshire",8,9,"2","'Choux-nicorn and Choux-moji' Choux Buns","'Flamingos in Love' Meringue Centrepiece","OUT"
+"866","Sophie","Faldo",33,"Former army officer and trainee stuntwoman","West Molesey, Surrey",8,9,"1","Strawberry & Rhubarb and Chestnut & Vanilla Choux Buns","'Tutu with Opera Filling' Meringue Centrepiece","STAR BAKER"
+"867","Chris","Geiger",50,"Software developer","Bristol",8,9,NA,NA,NA,NA
+"868","Flo","Atkins",71,"Retired","Merseyside",8,9,NA,NA,NA,NA
+"869","James","Hillery",46,"Banker","Brentwood, Essex",8,9,NA,NA,NA,NA
+"870","Julia","Chernogorova",21,"Aviation Broker","Crawley, West Sussex",8,9,NA,NA,NA,NA
+"871","Liam","Charles",19,"Student","North London",8,9,NA,NA,NA,NA
+"872","Peter","Abatan",52,"IT programme manager","Southend, Essex",8,9,NA,NA,NA,NA
+"873","Tom","Hetherington",29,"Architect","Edinburgh",8,9,NA,NA,NA,NA
+"874","Yan","Tsou",46,"Laboratory research scientist","North London",8,9,NA,NA,NA,NA
+"875","Kate","Lyon",29,"Health and safety inspector","Merseyside",8,10,"3","Roman Spelt, Coconut Kala Chana and Flower Breads","White Chocolate, Yuzu and Lychee Entremet","Runner-up"
+"876","Steven","Carter-Bailey",34,"Marketer","Watford, Hertfordshire",8,10,"1","Spelt & Rye, Toasted Garlic & Fontina and Sweet Chocolate Breads","'Yin Yang' Entremet","Runner-up"
+"877","Sophie","Faldo",33,"Former army officer and trainee stuntwoman","West Molesey, Surrey",8,10,"2","Spelt Boules, Mushroom Ciabatta and Orange Plaited Brioche","'Ode to the Honey Bee' Entremet","WINNER"
+"878","Chris","Geiger",50,"Software developer","Bristol",8,10,NA,NA,NA,NA
+"879","Flo","Atkins",71,"Retired","Merseyside",8,10,NA,NA,NA,NA
+"880","James","Hillery",46,"Banker","Brentwood, Essex",8,10,NA,NA,NA,NA
+"881","Julia","Chernogorova",21,"Aviation Broker","Crawley, West Sussex",8,10,NA,NA,NA,NA
+"882","Liam","Charles",19,"Student","North London",8,10,NA,NA,NA,NA
+"883","Peter","Abatan",52,"IT programme manager","Southend, Essex",8,10,NA,NA,NA,NA
+"884","Stacey","Hart",42,"Former school teacher","Radlett, Hertfordshire",8,10,NA,NA,NA,NA
+"885","Tom","Hetherington",29,"Architect","Edinburgh",8,10,NA,NA,NA,NA
+"886","Yan","Tsou",46,"Laboratory research scientist","North London",8,10,NA,NA,NA,NA
+"887","Antony","Amourdoux",30,"Banker","London",9,1,"12",NA,NA,"IN"
+"888","Briony","Williams",33,"Full-time parent","Bristol",9,1,"2",NA,NA,"IN"
+"889","Dan","Beasley-Harling",36,"Full-time parent","London",9,1,"4",NA,NA,"IN"
+"890","Jon","Jenkins",47,"Blood courier","Newport",9,1,"5",NA,NA,"IN"
+"891","Karen","Wright",60,"In-store sampling assistant","Wakefield",9,1,"6",NA,NA,"IN"
+"892","Kim-Joy","Hewlett",27,"Mental health specialist","Leeds",9,1,"10",NA,NA,"IN"
+"893","Luke","Thompson",30,"Civil servant/house and techno DJ","Sheffield",9,1,"8",NA,NA,"IN"
+"894","Rahul","Mandal",30,"Research scientist","Rotherham",9,1,"7",NA,NA,"IN"
+"895","Ruby","Bhogal",29,"Project manager","London",9,1,"1",NA,NA,"IN"
+"896","Terry","Hartill",56,"Retired air steward","West Midlands",9,1,"9",NA,NA,"IN"
+"897","Imelda","McCarron",33,"Countryside recreation officer","County Tyrone",9,1,"11",NA,NA,"OUT"
+"898","Manon","Lagrave",26,"Software project manager","London",9,1,"3",NA,NA,"STAR BAKER"
+"899","Antony","Amourdoux",30,"Banker","London",9,2,"9",NA,NA,"IN"
+"900","Briony","Williams",33,"Full-time parent","Bristol",9,2,"5",NA,NA,"IN"
+"901","Dan","Beasley-Harling",36,"Full-time parent","London",9,2,"3",NA,NA,"IN"
+"902","Jon","Jenkins",47,"Blood courier","Newport",9,2,"1",NA,NA,"IN"
+"903","Karen","Wright",60,"In-store sampling assistant","Wakefield",9,2,"11",NA,NA,"IN"
+"904","Kim-Joy","Hewlett",27,"Mental health specialist","Leeds",9,2,"4",NA,NA,"IN"
+"905","Manon","Lagrave",26,"Software project manager","London",9,2,"6",NA,NA,"IN"
+"906","Ruby","Bhogal",29,"Project manager","London",9,2,"10",NA,NA,"IN"
+"907","Terry","Hartill",56,"Retired air steward","West Midlands",9,2,"8",NA,NA,"IN"
+"908","Luke","Thompson",30,"Civil servant/house and techno DJ","Sheffield",9,2,"7",NA,NA,"OUT"
+"909","Rahul","Mandal",30,"Research scientist","Rotherham",9,2,"2",NA,NA,"STAR BAKER"
+"910","Imelda","McCarron",33,"Countryside recreation officer","County Tyrone",9,2,NA,NA,NA,NA
+"911","Briony","Williams",33,"Full-time parent","Bristol",9,3,"9",NA,NA,"IN"
+"912","Dan","Beasley-Harling",36,"Full-time parent","London",9,3,"6",NA,NA,"IN"
+"913","Jon","Jenkins",47,"Blood courier","Newport",9,3,"2",NA,NA,"IN"
+"914","Karen","Wright",60,"In-store sampling assistant","Wakefield",9,3,"5",NA,NA,"IN"
+"915","Kim-Joy","Hewlett",27,"Mental health specialist","Leeds",9,3,"10",NA,NA,"IN"
+"916","Manon","Lagrave",26,"Software project manager","London",9,3,"3",NA,NA,"IN"
+"917","Ruby","Bhogal",29,"Project manager","London",9,3,"7",NA,NA,"IN"
+"918","Terry","Hartill",56,"Retired air steward","West Midlands",9,3,"1",NA,NA,"IN"
+"919","Antony","Amourdoux",30,"Banker","London",9,3,"8",NA,NA,"OUT"
+"920","Rahul","Mandal",30,"Research scientist","Rotherham",9,3,"4",NA,NA,"STAR BAKER"
+"921","Imelda","McCarron",33,"Countryside recreation officer","County Tyrone",9,3,NA,NA,NA,NA
+"922","Luke","Thompson",30,"Civil servant/house and techno DJ","Sheffield",9,3,NA,NA,NA,NA
+"923","Terry","Hartill",56,"Retired air steward","West Midlands",9,4,NA,NA,NA,"[a]"
+"924","Briony","Williams",33,"Full-time parent","Bristol",9,4,"5",NA,NA,"IN"
+"925","Jon","Jenkins",47,"Blood courier","Newport",9,4,"3",NA,NA,"IN"
+"926","Karen","Wright",60,"In-store sampling assistant","Wakefield",9,4,"7",NA,NA,"IN"
+"927","Kim-Joy","Hewlett",27,"Mental health specialist","Leeds",9,4,"6",NA,NA,"IN"
+"928","Manon","Lagrave",26,"Software project manager","London",9,4,"8",NA,NA,"IN"
+"929","Rahul","Mandal",30,"Research scientist","Rotherham",9,4,"4",NA,NA,"IN"
+"930","Ruby","Bhogal",29,"Project manager","London",9,4,"2",NA,NA,"IN"
+"931","Dan","Beasley-Harling",36,"Full-time parent","London",9,4,"1",NA,NA,"STAR BAKER"
+"932","Antony","Amourdoux",30,"Banker","London",9,4,NA,NA,NA,NA
+"933","Imelda","McCarron",33,"Countryside recreation officer","County Tyrone",9,4,NA,NA,NA,NA
+"934","Luke","Thompson",30,"Civil servant/house and techno DJ","Sheffield",9,4,NA,NA,NA,NA
+"935","Briony","Williams",33,"Full-time parent","Bristol",9,5,"6",NA,NA,"IN"
+"936","Dan","Beasley-Harling",36,"Full-time parent","London",9,5,"2",NA,NA,"IN"
+"937","Jon","Jenkins",47,"Blood courier","Newport",9,5,"7",NA,NA,"IN"
+"938","Manon","Lagrave",26,"Software project manager","London",9,5,"5",NA,NA,"IN"
+"939","Rahul","Mandal",30,"Research scientist","Rotherham",9,5,"3",NA,NA,"IN"
+"940","Ruby","Bhogal",29,"Project manager","London",9,5,"1",NA,NA,"IN"
+"941","Karen","Wright",60,"In-store sampling assistant","Wakefield",9,5,"9",NA,NA,"OUT"
+"942","Terry","Hartill",56,"Retired air steward","West Midlands",9,5,"8",NA,NA,"OUT"
+"943","Kim-Joy","Hewlett",27,"Mental health specialist","Leeds",9,5,"4",NA,NA,"STAR BAKER"
+"944","Antony","Amourdoux",30,"Banker","London",9,5,NA,NA,NA,NA
+"945","Imelda","McCarron",33,"Countryside recreation officer","County Tyrone",9,5,NA,NA,NA,NA
+"946","Luke","Thompson",30,"Civil servant/house and techno DJ","Sheffield",9,5,NA,NA,NA,NA
+"947","Jon","Jenkins",47,"Blood courier","Newport",9,6,"2",NA,NA,"IN"
+"948","Kim-Joy","Hewlett",27,"Mental health specialist","Leeds",9,6,"5",NA,NA,"IN"
+"949","Manon","Lagrave",26,"Software project manager","London",9,6,"4",NA,NA,"IN"
+"950","Rahul","Mandal",30,"Research scientist","Rotherham",9,6,"3",NA,NA,"IN"
+"951","Ruby","Bhogal",29,"Project manager","London",9,6,"7",NA,NA,"IN"
+"952","Dan","Beasley-Harling",36,"Full-time parent","London",9,6,"6",NA,NA,"OUT"
+"953","Briony","Williams",33,"Full-time parent","Bristol",9,6,"1",NA,NA,"STAR BAKER"
+"954","Antony","Amourdoux",30,"Banker","London",9,6,NA,NA,NA,NA
+"955","Imelda","McCarron",33,"Countryside recreation officer","County Tyrone",9,6,NA,NA,NA,NA
+"956","Karen","Wright",60,"In-store sampling assistant","Wakefield",9,6,NA,NA,NA,NA
+"957","Luke","Thompson",30,"Civil servant/house and techno DJ","Sheffield",9,6,NA,NA,NA,NA
+"958","Terry","Hartill",56,"Retired air steward","West Midlands",9,6,NA,NA,NA,NA
+"959","Briony","Williams",33,"Full-time parent","Bristol",9,7,"5",NA,NA,"IN"
+"960","Manon","Lagrave",26,"Software project manager","London",9,7,"2",NA,NA,"IN"
+"961","Rahul","Mandal",30,"Research scientist","Rotherham",9,7,"1",NA,NA,"IN"
+"962","Ruby","Bhogal",29,"Project manager","London",9,7,"3",NA,NA,"IN"
+"963","Jon","Jenkins",47,"Blood courier","Newport",9,7,"4",NA,NA,"OUT"
+"964","Kim-Joy","Hewlett",27,"Mental health specialist","Leeds",9,7,"6",NA,NA,"STAR BAKER"
+"965","Antony","Amourdoux",30,"Banker","London",9,7,NA,NA,NA,NA
+"966","Dan","Beasley-Harling",36,"Full-time parent","London",9,7,NA,NA,NA,NA
+"967","Imelda","McCarron",33,"Countryside recreation officer","County Tyrone",9,7,NA,NA,NA,NA
+"968","Karen","Wright",60,"In-store sampling assistant","Wakefield",9,7,NA,NA,NA,NA
+"969","Luke","Thompson",30,"Civil servant/house and techno DJ","Sheffield",9,7,NA,NA,NA,NA
+"970","Terry","Hartill",56,"Retired air steward","West Midlands",9,7,NA,NA,NA,NA
+"971","Briony","Williams",33,"Full-time parent","Bristol",9,8,"1",NA,NA,"IN"
+"972","Kim-Joy","Hewlett",27,"Mental health specialist","Leeds",9,8,"2",NA,NA,"IN"
+"973","Rahul","Mandal",30,"Research scientist","Rotherham",9,8,"5",NA,NA,"IN"
+"974","Manon","Lagrave",26,"Software project manager","London",9,8,"4",NA,NA,"OUT"
+"975","Ruby","Bhogal",29,"Project manager","London",9,8,"3",NA,NA,"STAR BAKER"
+"976","Antony","Amourdoux",30,"Banker","London",9,8,NA,NA,NA,NA
+"977","Dan","Beasley-Harling",36,"Full-time parent","London",9,8,NA,NA,NA,NA
+"978","Imelda","McCarron",33,"Countryside recreation officer","County Tyrone",9,8,NA,NA,NA,NA
+"979","Jon","Jenkins",47,"Blood courier","Newport",9,8,NA,NA,NA,NA
+"980","Karen","Wright",60,"In-store sampling assistant","Wakefield",9,8,NA,NA,NA,NA
+"981","Luke","Thompson",30,"Civil servant/house and techno DJ","Sheffield",9,8,NA,NA,NA,NA
+"982","Terry","Hartill",56,"Retired air steward","West Midlands",9,8,NA,NA,NA,NA
+"983","Kim-Joy","Hewlett",27,"Mental health specialist","Leeds",9,9,"2",NA,NA,"IN"
+"984","Rahul","Mandal",30,"Research scientist","Rotherham",9,9,"4",NA,NA,"IN"
+"985","Briony","Williams",33,"Full-time parent","Bristol",9,9,"3",NA,NA,"OUT"
+"986","Ruby","Bhogal",29,"Project manager","London",9,9,"1",NA,NA,"STAR BAKER"
+"987","Antony","Amourdoux",30,"Banker","London",9,9,NA,NA,NA,NA
+"988","Dan","Beasley-Harling",36,"Full-time parent","London",9,9,NA,NA,NA,NA
+"989","Imelda","McCarron",33,"Countryside recreation officer","County Tyrone",9,9,NA,NA,NA,NA
+"990","Jon","Jenkins",47,"Blood courier","Newport",9,9,NA,NA,NA,NA
+"991","Karen","Wright",60,"In-store sampling assistant","Wakefield",9,9,NA,NA,NA,NA
+"992","Luke","Thompson",30,"Civil servant/house and techno DJ","Sheffield",9,9,NA,NA,NA,NA
+"993","Manon","Lagrave",26,"Software project manager","London",9,9,NA,NA,NA,NA
+"994","Terry","Hartill",56,"Retired air steward","West Midlands",9,9,NA,NA,NA,NA
+"995","Kim-Joy","Hewlett",27,"Mental health specialist","Leeds",9,10,"1",NA,NA,"Runner-up"
+"996","Ruby","Bhogal",29,"Project manager","London",9,10,"3",NA,NA,"Runner-up"
+"997","Rahul","Mandal",30,"Research scientist","Rotherham",9,10,"2",NA,NA,"WINNER"
+"998","Antony","Amourdoux",30,"Banker","London",9,10,NA,NA,NA,NA
+"999","Briony","Williams",33,"Full-time parent","Bristol",9,10,NA,NA,NA,NA
+"1000","Dan","Beasley-Harling",36,"Full-time parent","London",9,10,NA,NA,NA,NA
+"1001","Imelda","McCarron",33,"Countryside recreation officer","County Tyrone",9,10,NA,NA,NA,NA
+"1002","Jon","Jenkins",47,"Blood courier","Newport",9,10,NA,NA,NA,NA
+"1003","Karen","Wright",60,"In-store sampling assistant","Wakefield",9,10,NA,NA,NA,NA
+"1004","Luke","Thompson",30,"Civil servant/house and techno DJ","Sheffield",9,10,NA,NA,NA,NA
+"1005","Manon","Lagrave",26,"Software project manager","London",9,10,NA,NA,NA,NA
+"1006","Terry","Hartill",56,"Retired air steward","West Midlands",9,10,NA,NA,NA,NA
+"1007","Alice","Fevronia",28,"Geography teacher","Essex",10,1,"5",NA,NA,"IN"
+"1008","Amelia","LeBruin",24,"Fashion designer","Halifax",10,1,"4",NA,NA,"IN"
+"1009","David","Atherton",36,"International health adviser","Whitby",10,1,"10",NA,NA,"IN"
+"1010","Helena","Garcia",40,"Online project manager","Leeds",10,1,"12",NA,NA,"IN"
+"1011","Henry","Bird",20,"Student","Durham",10,1,"1",NA,NA,"IN"
+"1012","Jamie","Finn",20,"Part-time waiter","Surrey",10,1,"13",NA,NA,"IN"
+"1013","Michael","Chakraverty",26,"Theatre manager/fitness instructor","Stratford-upon-Avon",10,1,"11",NA,NA,"IN"
+"1014","Phil","Thorne",56,"HGV driver","Rainham",10,1,"8",NA,NA,"IN"
+"1015","Priya","O'Shea",34,"Marketing consultant","Leicester",10,1,"7",NA,NA,"IN"
+"1016","Rosie","Brandreth-Poynter",28,"Veterinary surgeon","Somerset",10,1,"2",NA,NA,"IN"
+"1017","Steph","Blackwell",28,"Shop assistant","Chester",10,1,"3",NA,NA,"IN"
+"1018","Dan","Chambers",32,"Support worker","Rotherham",10,1,"9",NA,NA,"OUT"
+"1019","Michelle","Evans-Fecci",35,"Print shop administrator","Tenby, Wales",10,1,"6",NA,NA,"STAR BAKER"
+"1020","Amelia","LeBruin",24,"Fashion designer","Halifax",10,2,"9",NA,NA,"IN"
+"1021","David","Atherton",36,"International health adviser","Whitby",10,2,"2",NA,NA,"IN"
+"1022","Helena","Garcia",40,"Online project manager","Leeds",10,2,"12",NA,NA,"IN"
+"1023","Henry","Bird",20,"Student","Durham",10,2,"6",NA,NA,"IN"
+"1024","Michael","Chakraverty",26,"Theatre manager/fitness instructor","Stratford-upon-Avon",10,2,"4",NA,NA,"IN"
+"1025","Michelle","Evans-Fecci",35,"Print shop administrator","Tenby, Wales",10,2,"8",NA,NA,"IN"
+"1026","Phil","Thorne",56,"HGV driver","Rainham",10,2,"3",NA,NA,"IN"
+"1027","Priya","O'Shea",34,"Marketing consultant","Leicester",10,2,"7",NA,NA,"IN"
+"1028","Rosie","Brandreth-Poynter",28,"Veterinary surgeon","Somerset",10,2,"5",NA,NA,"IN"
+"1029","Steph","Blackwell",28,"Shop assistant","Chester",10,2,"10",NA,NA,"IN"
+"1030","Jamie","Finn",20,"Part-time waiter","Surrey",10,2,"11",NA,NA,"OUT"
+"1031","Alice","Fevronia",28,"Geography teacher","Essex",10,2,"1",NA,NA,"STAR BAKER"
+"1032","Dan","Chambers",32,"Support worker","Rotherham",10,2,NA,NA,NA,NA
+"1033","Alice","Fevronia",28,"Geography teacher","Essex",10,3,"7",NA,NA,"IN"
+"1034","David","Atherton",36,"International health adviser","Whitby",10,3,"2",NA,NA,"IN"
+"1035","Helena","Garcia",40,"Online project manager","Leeds",10,3,"8",NA,NA,"IN"
+"1036","Henry","Bird",20,"Student","Durham",10,3,"1",NA,NA,"IN"
+"1037","Michelle","Evans-Fecci",35,"Print shop administrator","Tenby, Wales",10,3,"5",NA,NA,"IN"
+"1038","Phil","Thorne",56,"HGV driver","Rainham",10,3,"10",NA,NA,"IN"
+"1039","Priya","O'Shea",34,"Marketing consultant","Leicester",10,3,"4",NA,NA,"IN"
+"1040","Rosie","Brandreth-Poynter",28,"Veterinary surgeon","Somerset",10,3,"9",NA,NA,"IN"
+"1041","Steph","Blackwell",28,"Shop assistant","Chester",10,3,"3",NA,NA,"IN"
+"1042","Amelia","LeBruin",24,"Fashion designer","Halifax",10,3,"11",NA,NA,"OUT"
+"1043","Michael","Chakraverty",26,"Theatre manager/fitness instructor","Stratford-upon-Avon",10,3,"6",NA,NA,"STAR BAKER"
+"1044","Dan","Chambers",32,"Support worker","Rotherham",10,3,NA,NA,NA,NA
+"1045","Jamie","Finn",20,"Part-time waiter","Surrey",10,3,NA,NA,NA,NA
+"1046","Alice","Fevronia",28,"Geography teacher","Essex",10,4,"8",NA,NA,"IN"
+"1047","David","Atherton",36,"International health adviser","Whitby",10,4,"2",NA,NA,"IN"
+"1048","Helena","Garcia",40,"Online project manager","Leeds",10,4,"9",NA,NA,"IN"
+"1049","Henry","Bird",20,"Student","Durham",10,4,"3",NA,NA,"IN"
+"1050","Michael","Chakraverty",26,"Theatre manager/fitness instructor","Stratford-upon-Avon",10,4,"7",NA,NA,"IN"
+"1051","Michelle","Evans-Fecci",35,"Print shop administrator","Tenby, Wales",10,4,"5",NA,NA,"IN"
+"1052","Priya","O'Shea",34,"Marketing consultant","Leicester",10,4,"10",NA,NA,"IN"
+"1053","Rosie","Brandreth-Poynter",28,"Veterinary surgeon","Somerset",10,4,"4",NA,NA,"IN"
+"1054","Phil","Thorne",56,"HGV driver","Rainham",10,4,"6",NA,NA,"OUT"
+"1055","Steph","Blackwell",28,"Shop assistant","Chester",10,4,"1",NA,NA,"STAR BAKER"
+"1056","Amelia","LeBruin",24,"Fashion designer","Halifax",10,4,NA,NA,NA,NA
+"1057","Dan","Chambers",32,"Support worker","Rotherham",10,4,NA,NA,NA,NA
+"1058","Jamie","Finn",20,"Part-time waiter","Surrey",10,4,NA,NA,NA,NA
+"1059","Alice","Fevronia",28,"Geography teacher","Essex",10,5,"6",NA,NA,"IN"
+"1060","David","Atherton",36,"International health adviser","Whitby",10,5,"9",NA,NA,"IN"
+"1061","Henry","Bird",20,"Student","Durham",10,5,"3",NA,NA,"IN"
+"1062","Michael","Chakraverty",26,"Theatre manager/fitness instructor","Stratford-upon-Avon",10,5,"8",NA,NA,"IN"
+"1063","Priya","O'Shea",34,"Marketing consultant","Leicester",10,5,"2",NA,NA,"IN"
+"1064","Rosie","Brandreth-Poynter",28,"Veterinary surgeon","Somerset",10,5,"5",NA,NA,"IN"
+"1065","Helena","Garcia",40,"Online project manager","Leeds",10,5,"1",NA,NA,"OUT"
+"1066","Michelle","Evans-Fecci",35,"Print shop administrator","Tenby, Wales",10,5,"7",NA,NA,"OUT"
+"1067","Steph","Blackwell",28,"Shop assistant","Chester",10,5,"4",NA,NA,"STAR BAKER"
+"1068","Amelia","LeBruin",24,"Fashion designer","Halifax",10,5,NA,NA,NA,NA
+"1069","Dan","Chambers",32,"Support worker","Rotherham",10,5,NA,NA,NA,NA
+"1070","Jamie","Finn",20,"Part-time waiter","Surrey",10,5,NA,NA,NA,NA
+"1071","Phil","Thorne",56,"HGV driver","Rainham",10,5,NA,NA,NA,NA
+"1072","Alice","Fevronia",28,"Geography teacher","Essex",10,6,"1",NA,NA,"IN"
+"1073","David","Atherton",36,"International health adviser","Whitby",10,6,"2",NA,NA,"IN"
+"1074","Henry","Bird",20,"Student","Durham",10,6,"4",NA,NA,"IN"
+"1075","Michael","Chakraverty",26,"Theatre manager/fitness instructor","Stratford-upon-Avon",10,6,"6",NA,NA,"IN"
+"1076","Rosie","Brandreth-Poynter",28,"Veterinary surgeon","Somerset",10,6,"5",NA,NA,"IN"
+"1077","Priya","O'Shea",34,"Marketing consultant","Leicester",10,6,"7",NA,NA,"OUT"
+"1078","Steph","Blackwell",28,"Shop assistant","Chester",10,6,"3",NA,NA,"STAR BAKER"
+"1079","Amelia","LeBruin",24,"Fashion designer","Halifax",10,6,NA,NA,NA,NA
+"1080","Dan","Chambers",32,"Support worker","Rotherham",10,6,NA,NA,NA,NA
+"1081","Helena","Garcia",40,"Online project manager","Leeds",10,6,NA,NA,NA,NA
+"1082","Jamie","Finn",20,"Part-time waiter","Surrey",10,6,NA,NA,NA,NA
+"1083","Michelle","Evans-Fecci",35,"Print shop administrator","Tenby, Wales",10,6,NA,NA,NA,NA
+"1084","Phil","Thorne",56,"HGV driver","Rainham",10,6,NA,NA,NA,NA
+"1085","Alice","Fevronia",28,"Geography teacher","Essex",10,7,"6",NA,NA,"IN"
+"1086","David","Atherton",36,"International health adviser","Whitby",10,7,"2",NA,NA,"IN"
+"1087","Rosie","Brandreth-Poynter",28,"Veterinary surgeon","Somerset",10,7,"1",NA,NA,"IN"
+"1088","Steph","Blackwell",28,"Shop assistant","Chester",10,7,"4",NA,NA,"IN"
+"1089","Michael","Chakraverty",26,"Theatre manager/fitness instructor","Stratford-upon-Avon",10,7,"5",NA,NA,"OUT"
+"1090","Henry","Bird",20,"Student","Durham",10,7,"3",NA,NA,"STAR BAKER"
+"1091","Amelia","LeBruin",24,"Fashion designer","Halifax",10,7,NA,NA,NA,NA
+"1092","Dan","Chambers",32,"Support worker","Rotherham",10,7,NA,NA,NA,NA
+"1093","Helena","Garcia",40,"Online project manager","Leeds",10,7,NA,NA,NA,NA
+"1094","Jamie","Finn",20,"Part-time waiter","Surrey",10,7,NA,NA,NA,NA
+"1095","Michelle","Evans-Fecci",35,"Print shop administrator","Tenby, Wales",10,7,NA,NA,NA,NA
+"1096","Phil","Thorne",56,"HGV driver","Rainham",10,7,NA,NA,NA,NA
+"1097","Priya","O'Shea",34,"Marketing consultant","Leicester",10,7,NA,NA,NA,NA
+"1098","Alice","Fevronia",28,"Geography teacher","Essex",10,8,"3",NA,NA,"IN"
+"1099","David","Atherton",36,"International health adviser","Whitby",10,8,"1",NA,NA,"IN"
+"1100","Rosie","Brandreth-Poynter",28,"Veterinary surgeon","Somerset",10,8,"2",NA,NA,"IN"
+"1101","Henry","Bird",20,"Student","Durham",10,8,"5",NA,NA,"OUT"
+"1102","Steph","Blackwell",28,"Shop assistant","Chester",10,8,"4",NA,NA,"STAR BAKER"
+"1103","Amelia","LeBruin",24,"Fashion designer","Halifax",10,8,NA,NA,NA,NA
+"1104","Dan","Chambers",32,"Support worker","Rotherham",10,8,NA,NA,NA,NA
+"1105","Helena","Garcia",40,"Online project manager","Leeds",10,8,NA,NA,NA,NA
+"1106","Jamie","Finn",20,"Part-time waiter","Surrey",10,8,NA,NA,NA,NA
+"1107","Michael","Chakraverty",26,"Theatre manager/fitness instructor","Stratford-upon-Avon",10,8,NA,NA,NA,NA
+"1108","Michelle","Evans-Fecci",35,"Print shop administrator","Tenby, Wales",10,8,NA,NA,NA,NA
+"1109","Phil","Thorne",56,"HGV driver","Rainham",10,8,NA,NA,NA,NA
+"1110","Priya","O'Shea",34,"Marketing consultant","Leicester",10,8,NA,NA,NA,NA
+"1111","David","Atherton",36,"International health adviser","Whitby",10,9,"2",NA,NA,"IN"
+"1112","Steph","Blackwell",28,"Shop assistant","Chester",10,9,"3",NA,NA,"IN"
+"1113","Rosie","Brandreth-Poynter",28,"Veterinary surgeon","Somerset",10,9,"1",NA,NA,"OUT"
+"1114","Alice","Fevronia",28,"Geography teacher","Essex",10,9,"4",NA,NA,"STAR BAKER"
+"1115","Amelia","LeBruin",24,"Fashion designer","Halifax",10,9,NA,NA,NA,NA
+"1116","Dan","Chambers",32,"Support worker","Rotherham",10,9,NA,NA,NA,NA
+"1117","Helena","Garcia",40,"Online project manager","Leeds",10,9,NA,NA,NA,NA
+"1118","Henry","Bird",20,"Student","Durham",10,9,NA,NA,NA,NA
+"1119","Jamie","Finn",20,"Part-time waiter","Surrey",10,9,NA,NA,NA,NA
+"1120","Michael","Chakraverty",26,"Theatre manager/fitness instructor","Stratford-upon-Avon",10,9,NA,NA,NA,NA
+"1121","Michelle","Evans-Fecci",35,"Print shop administrator","Tenby, Wales",10,9,NA,NA,NA,NA
+"1122","Phil","Thorne",56,"HGV driver","Rainham",10,9,NA,NA,NA,NA
+"1123","Priya","O'Shea",34,"Marketing consultant","Leicester",10,9,NA,NA,NA,NA
+"1124","Alice","Fevronia",28,"Geography teacher","Essex",10,10,"2",NA,NA,"Runner-up"
+"1125","Steph","Blackwell",28,"Shop assistant","Chester",10,10,"3",NA,NA,"Runner-up"
+"1126","David","Atherton",36,"International health adviser","Whitby",10,10,"1",NA,NA,"WINNER"
+"1127","Amelia","LeBruin",24,"Fashion designer","Halifax",10,10,NA,NA,NA,NA
+"1128","Dan","Chambers",32,"Support worker","Rotherham",10,10,NA,NA,NA,NA
+"1129","Helena","Garcia",40,"Online project manager","Leeds",10,10,NA,NA,NA,NA
+"1130","Henry","Bird",20,"Student","Durham",10,10,NA,NA,NA,NA
+"1131","Jamie","Finn",20,"Part-time waiter","Surrey",10,10,NA,NA,NA,NA
+"1132","Michael","Chakraverty",26,"Theatre manager/fitness instructor","Stratford-upon-Avon",10,10,NA,NA,NA,NA
+"1133","Michelle","Evans-Fecci",35,"Print shop administrator","Tenby, Wales",10,10,NA,NA,NA,NA
+"1134","Phil","Thorne",56,"HGV driver","Rainham",10,10,NA,NA,NA,NA
+"1135","Priya","O'Shea",34,"Marketing consultant","Leicester",10,10,NA,NA,NA,NA
+"1136","Rosie","Brandreth-Poynter",28,"Veterinary surgeon","Somerset",10,10,NA,NA,NA,NA
