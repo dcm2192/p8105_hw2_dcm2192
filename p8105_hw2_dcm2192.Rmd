@@ -186,8 +186,20 @@ After loading `bakers.csv`, `bakes.csv`, and `results.csv`, I used `janitor::cle
 ```{r}
 gbb_tidy_total_win_star_5_to_10 <- 
   filter(gbb_tidy_total, result == "WINNER" | result == "STAR BAKER", series >= 5)
+
+gbb_tidy_total_win_star_5_to_10
 ```
 
 Based on this table, the overall winners of each season from seasons 5 through 10 were Nancy, Nadiya, Candice, Sophie, Rahul, and David. From these, the predictable overall winners included Candice and Nadiya, who were both either winner or star baker on four different episodes, which is the most out of everyone from seasons 5 through 10. The surprising overall winner was David, whose only win or star baker happened during the last episode when he won the episode and the season. 
+
+*Import, clean, tidy, and organize the viewership data in viewers.csv. Show the first 10 rows of this dataset. What was the average viewership in Season 1? In Season 5?*
+```{r}
+viewers <- read_csv("./data_hw2/gbb_datasets/viewers.csv") |> 
+  janitor::clean_names()
+
+viewers
+```
+
+The average viewership of season 1 was `r mean(viewers$series_1, na.rm = TRUE)`, and the average viewership of season 5 was `r mean(viewers$series_5)`. 
 
 
